@@ -1,0 +1,117 @@
+10
+
+dir
+174
+svn://ipccenter.ru/ipc/CoverageAreaVisualizer/Coverage1
+svn://ipccenter.ru/ipc
+
+
+
+2010-12-07T19:57:20.704542Z
+174
+evdokimov
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7e2eba75-fa29-0410-bcc6-96a6ee085120
+
+.classpath
+file
+
+
+
+
+2010-12-06T14:28:52.000000Z
+37b26b395ccc3c2b38128d61f5d27eae
+2010-11-29T15:59:51.390337Z
+161
+evdokimov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+480
+
+.project
+file
+
+
+
+
+2010-12-06T14:28:52.000000Z
+b4c089181852a8f5c218328ff911de54
+2010-11-24T09:51:01.921882Z
+160
+egorov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+368
+
+.settings
+dir
+
+bin
+dir
+
+lib
+dir
+
+maps
+dir
+
+output
+dir
+
+src
+dir
+
+test
+dir
+

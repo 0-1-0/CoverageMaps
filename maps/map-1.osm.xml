@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2">
+ <bounds minlat="56.3263500" minlon="36.7105000" maxlat="56.3331600" maxlon="36.7263300"/>
+ <node id="27000042" lat="56.2090968" lon="36.9299577" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000043" lat="56.2111313" lon="36.9252358" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000044" lat="56.2131890" lon="36.9186466" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000046" lat="56.2236660" lon="36.8803096" user="alchark" uid="155396" visible="true" version="4" changeset="4598004" timestamp="2010-05-03T19:10:04Z"/>
+ <node id="27000048" lat="56.2303229" lon="36.8557951" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000049" lat="56.2343235" lon="36.8409946" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000050" lat="56.2375912" lon="36.8289312" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000051" lat="56.2411404" lon="36.8158034" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000053" lat="56.2492038" lon="36.7865346" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000054" lat="56.2508340" lon="36.7818407" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000055" lat="56.2523420" lon="36.7784343" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000056" lat="56.2545323" lon="36.7743734" user="wowik" uid="115477" visible="true" version="5" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000057" lat="56.2570771" lon="36.7705486" user="wowik" uid="115477" visible="true" version="5" changeset="5732576" timestamp="2010-09-09T13:42:32Z"/>
+ <node id="27000058" lat="56.2609030" lon="36.7662464" user="wowik" uid="115477" visible="true" version="5" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000059" lat="56.2655626" lon="36.7628024" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000060" lat="56.2718014" lon="36.7589837" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000063" lat="56.2870775" lon="36.7495469" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000064" lat="56.2897124" lon="36.7473529" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000065" lat="56.2930161" lon="36.7436763" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000066" lat="56.2981351" lon="36.7371377" user="Vad71" uid="73346" visible="true" version="3" changeset="574373" timestamp="2008-10-25T08:26:29Z"/>
+ <node id="27000067" lat="56.3045034" lon="36.7294840" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000068" lat="56.3063217" lon="36.7276547" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000069" lat="56.3118208" lon="36.7237119" user="wowik" uid="115477" visible="true" version="4" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="27000073" lat="56.3359240" lon="36.7084374" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:49Z"/>
+ <node id="27000074" lat="56.3406339" lon="36.7052617" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:55Z"/>
+ <node id="27000075" lat="56.3431551" lon="36.7034163" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:54Z"/>
+ <node id="27000076" lat="56.3475180" lon="36.6986666" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:55Z"/>
+ <node id="27000077" lat="56.3506637" lon="36.6938513" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:53Z"/>
+ <node id="27000078" lat="56.3550449" lon="36.6866538" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:53Z"/>
+ <node id="27000079" lat="56.3596221" lon="36.6788988" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:53Z"/>
+ <node id="27000080" lat="56.3638618" lon="36.6715999" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:54Z"/>
+ <node id="27000081" lat="56.3665851" lon="36.6670381" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:53Z"/>
+ <node id="76381130" lat="56.3316374" lon="36.7245403" user="sanyasi" uid="135419" visible="true" version="7" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="76381131" lat="56.3318969" lon="36.7255200" user="Vad71" uid="73346" visible="true" version="6" changeset="753482" timestamp="2008-11-15T21:34:02Z"/>
+ <node id="76381220" lat="56.3322825" lon="36.7269961" user="Shabrych" uid="233025" visible="true" version="9" changeset="4720227" timestamp="2010-05-16T17:49:18Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="76391238" lat="56.3302083" lon="36.7178650" user="sanyasi" uid="135419" visible="true" version="6" changeset="5716846" timestamp="2010-09-08T12:35:24Z"/>
+ <node id="76391239" lat="56.3305956" lon="36.7197656" user="sanyasi" uid="135419" visible="true" version="7" changeset="5847550" timestamp="2010-09-22T17:59:23Z"/>
+ <node id="82452220" lat="56.3330477" lon="36.7199522" user="krattbot" uid="314684" visible="true" version="8" changeset="5217669" timestamp="2010-07-14T15:12:53Z">
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:district" v="Клинский район"/>
+  <tag k="addr:postcode" v="141600"/>
+  <tag k="addr:region" v="Московская область"/>
+  <tag k="cladr:code" v="5001100100000"/>
+  <tag k="cladr:name" v="Клин"/>
+  <tag k="cladr:suffix" v="Город"/>
+  <tag k="name" v="Клин"/>
+  <tag k="name:et" v="Klin"/>
+  <tag k="place" v="town"/>
+  <tag k="population" v="80906"/>
+  <tag k="wikipedia" v="http://en.wikipedia.org/wiki/Klin"/>
+ </node>
+ <node id="247985283" lat="56.3351440" lon="36.7216902" user="Shabrych" uid="233025" visible="true" version="5" changeset="4720227" timestamp="2010-05-16T17:49:19Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="258325574" lat="56.3451292" lon="36.7014422" user="Alexander Leschinsky" uid="13502" visible="true" version="1" changeset="181652" timestamp="2008-04-18T10:26:29Z"/>
+ <node id="312375317" lat="56.3296955" lon="36.7153833" user="Vad71" uid="73346" visible="true" version="3" changeset="753482" timestamp="2008-11-15T21:33:52Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="312375605" lat="56.3332702" lon="36.7130894" user="liosha" uid="11132" visible="true" version="4" changeset="478417" timestamp="2009-02-16T09:40:32Z"/>
+ <node id="312375606" lat="56.3333653" lon="36.7130894" user="liosha" uid="11132" visible="true" version="4" changeset="478417" timestamp="2009-02-16T09:40:32Z"/>
+ <node id="312375607" lat="56.3334367" lon="36.7132095" user="liosha" uid="11132" visible="true" version="4" changeset="478417" timestamp="2009-02-16T09:40:32Z"/>
+ <node id="312375917" lat="56.3248292" lon="36.7186348" user="sanyasi" uid="135419" visible="true" version="6" changeset="5604461" timestamp="2010-08-27T05:21:14Z"/>
+ <node id="312375919" lat="56.3353150" lon="36.7220967" user="liosha" uid="11132" visible="true" version="8" changeset="2789471" timestamp="2009-10-09T04:41:52Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="312377456" lat="56.3350228" lon="36.7210126" user="klinosm" uid="315638" visible="true" version="5" changeset="5845869" timestamp="2010-09-22T14:07:50Z"/>
+ <node id="314532815" lat="56.3313797" lon="36.7111918" user="ZCC" uid="24305" visible="true" version="1" changeset="793178" timestamp="2008-11-25T08:22:14Z">
+  <tag k="name" v="Клин"/>
+  <tag k="railway" v="station"/>
+ </node>
+ <node id="314817999" lat="56.3287381" lon="36.7209995" user="ZCC" uid="24305" visible="true" version="1" changeset="795113" timestamp="2008-11-26T08:04:03Z"/>
+ <node id="314818000" lat="56.3294424" lon="36.7244670" user="ZCC" uid="24305" visible="true" version="1" changeset="795113" timestamp="2008-11-26T08:04:04Z"/>
+ <node id="314818006" lat="56.3313276" lon="36.7286990" user="klinosm" uid="315638" visible="true" version="6" changeset="5869573" timestamp="2010-09-25T10:35:02Z"/>
+ <node id="314818016" lat="56.3273472" lon="36.7291793" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:52Z"/>
+ <node id="325044435" lat="56.2067129" lon="36.9343833" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:13Z">
+  <tag k="name" v="Сенеж"/>
+  <tag k="railway" v="halt"/>
+ </node>
+ <node id="325044437" lat="56.2227328" lon="36.8836368" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:13Z">
+  <tag k="name" v="Головково"/>
+  <tag k="railway" v="halt"/>
+ </node>
+ <node id="325044438" lat="56.2371691" lon="36.8305197" user="wowik" uid="115477" visible="true" version="2" changeset="5733319" timestamp="2010-09-09T14:53:14Z">
+  <tag k="name" v="Покровка"/>
+  <tag k="railway" v="halt"/>
+ </node>
+ <node id="325044440" lat="56.2695664" lon="36.7603614" user="wowik" uid="115477" visible="true" version="2" changeset="5733319" timestamp="2010-09-09T14:53:14Z">
+  <tag k="name" v="Фроловское"/>
+  <tag k="railway" v="halt"/>
+ </node>
+ <node id="325044441" lat="56.2990912" lon="36.7359424" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:14Z">
+  <tag k="alt_name" v="Стриглово"/>
+  <tag k="name" v="Стреглово"/>
+  <tag k="railway" v="halt"/>
+ </node>
+ <node id="330035181" lat="56.2629826" lon="36.7645512" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="330035185" lat="56.2590259" lon="36.7681990" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:42:33Z"/>
+ <node id="345212881" lat="56.3224282" lon="36.7292609" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:38Z"/>
+ <node id="345212882" lat="56.3215543" lon="36.7343308" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:51Z"/>
+ <node id="345212883" lat="56.3216494" lon="36.7346325" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:44Z"/>
+ <node id="345212884" lat="56.3217899" lon="36.7347525" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:44Z"/>
+ <node id="345212885" lat="56.3241332" lon="36.7359297" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:51Z"/>
+ <node id="345212886" lat="56.3247281" lon="36.7359280" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:51Z"/>
+ <node id="345212887" lat="56.3252048" lon="36.7357496" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:51Z"/>
+ <node id="345212888" lat="56.3257182" lon="36.7353247" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:51Z"/>
+ <node id="345212889" lat="56.3263348" lon="36.7342546" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:51Z"/>
+ <node id="345212890" lat="56.3268348" lon="36.7322996" user="liosha" uid="11132" visible="true" version="3" changeset="2789471" timestamp="2009-10-09T04:41:52Z"/>
+ <node id="345212894" lat="56.3280346" lon="36.7247880" user="sanyasi" uid="135419" visible="true" version="4" changeset="5125987" timestamp="2010-07-03T16:22:19Z"/>
+ <node id="362385202" lat="56.3310617" lon="36.7220837" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="370935646" lat="56.3258210" lon="36.7228136" user="sanyasi" uid="135419" visible="true" version="5" changeset="5716846" timestamp="2010-09-08T12:35:24Z"/>
+ <node id="370935652" lat="56.3290394" lon="36.7253443" user="sanyasi" uid="135419" visible="true" version="3" changeset="5125987" timestamp="2010-07-03T16:22:18Z"/>
+ <node id="370935653" lat="56.3292273" lon="36.7254182" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:52Z"/>
+ <node id="370935654" lat="56.3282667" lon="36.7297691" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:52Z"/>
+ <node id="373534541" lat="56.3294856" lon="36.7255064" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:52Z">
+  <tag k="highway" v="bus_stop"/>
+ </node>
+ <node id="373534544" lat="56.3268285" lon="36.7237856" user="liosha" uid="11132" visible="true" version="2" changeset="2789471" timestamp="2009-10-09T04:41:50Z">
+  <tag k="highway" v="bus_stop"/>
+ </node>
+ <node id="412338245" lat="56.3258963" lon="36.7235583" user="alexinc" uid="290619" visible="true" version="4" changeset="5687963" timestamp="2010-09-05T14:20:51Z"/>
+ <node id="418378747" lat="56.3298290" lon="36.7258545" user="forcis" uid="69650" visible="true" version="2" changeset="1679630" timestamp="2009-06-29T17:50:55Z"/>
+ <node id="418378749" lat="56.3300441" lon="36.7262586" user="forcis" uid="69650" visible="true" version="1" changeset="1480518" timestamp="2009-06-10T19:43:49Z"/>
+ <node id="418378750" lat="56.3306959" lon="36.7274934" user="sanyasi" uid="135419" visible="true" version="2" changeset="5604461" timestamp="2010-08-27T05:21:14Z"/>
+ <node id="418378751" lat="56.3312417" lon="36.7285410" user="forcis" uid="69650" visible="true" version="1" changeset="1480518" timestamp="2009-06-10T19:43:49Z"/>
+ <node id="418378752" lat="56.3297708" lon="36.7257212" user="forcis" uid="69650" visible="true" version="2" changeset="1679630" timestamp="2009-06-29T17:50:55Z"/>
+ <node id="418399243" lat="56.3342830" lon="36.7173535" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:30Z"/>
+ <node id="418399246" lat="56.3253588" lon="36.7208471" user="klinosm" uid="315638" visible="true" version="4" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="418399249" lat="56.3301685" lon="36.7176705" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="418399252" lat="56.3281785" lon="36.7188678" user="klinosm" uid="315638" visible="true" version="4" changeset="5869573" timestamp="2010-09-25T10:34:58Z"/>
+ <node id="418399475" lat="56.3266390" lon="36.7333533" user="forcis" uid="69650" visible="true" version="1" changeset="1481026" timestamp="2009-06-10T20:28:36Z"/>
+ <node id="418410248" lat="56.3270149" lon="36.7244365" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:02Z"/>
+ <node id="418410249" lat="56.3265392" lon="36.7242178" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:02Z"/>
+ <node id="418410251" lat="56.3264989" lon="36.7245025" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:02Z"/>
+ <node id="418410253" lat="56.3269746" lon="36.7247212" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:02Z"/>
+ <node id="418410497" lat="56.3272294" lon="36.7251599" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410500" lat="56.3270429" lon="36.7262197" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410503" lat="56.3269027" lon="36.7261395" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410505" lat="56.3270893" lon="36.7250797" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410508" lat="56.3277984" lon="36.7258160" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410511" lat="56.3276398" lon="36.7268590" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410514" lat="56.3275056" lon="36.7267926" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410518" lat="56.3276642" lon="36.7257496" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410521" lat="56.3278357" lon="36.7248571" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410525" lat="56.3272107" lon="36.7245038" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:05Z"/>
+ <node id="418410527" lat="56.3271527" lon="36.7248381" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410533" lat="56.3277776" lon="36.7251913" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410537" lat="56.3277890" lon="36.7251599" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410541" lat="56.3277051" lon="36.7256141" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410544" lat="56.3278254" lon="36.7256865" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410550" lat="56.3279094" lon="36.7252322" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:06Z"/>
+ <node id="418410611" lat="56.3260570" lon="36.7348493" user="forcis" uid="69650" visible="true" version="1" changeset="1481167" timestamp="2009-06-10T20:43:07Z"/>
+ <node id="430834228" lat="56.3296888" lon="36.7259501" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:45Z"/>
+ <node id="430834229" lat="56.3300171" lon="36.7264804" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834230" lat="56.3299200" lon="36.7266554" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834231" lat="56.3296317" lon="36.7261921" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834234" lat="56.3291579" lon="36.7259501" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834235" lat="56.3290437" lon="36.7266966" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834236" lat="56.3289181" lon="36.7266297" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834237" lat="56.3290837" lon="36.7256309" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:46Z"/>
+ <node id="430834318" lat="56.3284842" lon="36.7256328" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:26Z"/>
+ <node id="430834319" lat="56.3284533" lon="36.7258143" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:25Z"/>
+ <node id="430834320" lat="56.3285674" lon="36.7258774" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:22Z"/>
+ <node id="430834321" lat="56.3285996" lon="36.7256881" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:29Z"/>
+ <node id="430834323" lat="56.3287367" lon="36.7257641" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:23Z"/>
+ <node id="430834324" lat="56.3286529" lon="36.7262564" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:25Z"/>
+ <node id="430834325" lat="56.3282618" lon="36.7260399" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:24Z"/>
+ <node id="430834326" lat="56.3283442" lon="36.7255553" user="klinosm" uid="315638" visible="true" version="2" changeset="5322004" timestamp="2010-07-26T15:42:29Z"/>
+ <node id="430834341" lat="56.3297060" lon="36.7243357" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:50Z"/>
+ <node id="430834342" lat="56.3295708" lon="36.7244477" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:50Z"/>
+ <node id="430834347" lat="56.3298357" lon="36.7256175" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834349" lat="56.3299599" lon="36.7255120" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834351" lat="56.3300366" lon="36.7256768" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834352" lat="56.3299489" lon="36.7258712" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834354" lat="56.3303107" lon="36.7264709" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834356" lat="56.3303856" lon="36.7262864" user="forcis" uid="69650" visible="true" version="1" changeset="1679630" timestamp="2009-06-29T17:50:51Z"/>
+ <node id="430834358" lat="56.3308132" lon="36.7248627" user="klinosm" uid="315638" visible="true" version="2" changeset="5702402" timestamp="2010-09-06T20:28:45Z"/>
+ <node id="430834360" lat="56.3306961" lon="36.7250035" user="klinosm" uid="315638" visible="true" version="2" changeset="5702402" timestamp="2010-09-06T20:28:36Z"/>
+ <node id="430834362" lat="56.3308689" lon="36.7256269" user="klinosm" uid="315638" visible="true" version="2" changeset="5702402" timestamp="2010-09-06T20:28:41Z"/>
+ <node id="430834369" lat="56.3309916" lon="36.7254660" user="klinosm" uid="315638" visible="true" version="2" changeset="5702402" timestamp="2010-09-06T20:28:36Z"/>
+ <node id="448292467" lat="56.3301359" lon="36.7260926" user="alexinc" uid="290619" visible="true" version="2" changeset="4802973" timestamp="2010-05-25T12:09:22Z">
+  <tag k="amenity" v="pharmacy"/>
+ </node>
+ <node id="449631908" lat="56.2177636" lon="36.9019932" user="wowik" uid="115477" visible="true" version="7" changeset="2514013" timestamp="2009-09-17T17:28:38Z">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="451739639" lat="56.2684374" lon="36.7610575" user="glebius" uid="94786" visible="true" version="1" changeset="1984668" timestamp="2009-07-30T13:30:19Z"/>
+ <node id="451739679" lat="56.2951450" lon="36.7409572" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:42:28Z">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="502068334" lat="56.3276751" lon="36.7166771" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:30Z"/>
+ <node id="684285681" lat="56.3293506" lon="36.7041191" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:37Z"/>
+ <node id="684285688" lat="56.3306892" lon="36.7106462" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:40Z"/>
+ <node id="710127556" lat="56.3343610" lon="36.7177265" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:36Z">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="710135985" lat="56.3706289" lon="36.6619269" user="Frantony" uid="83097" visible="true" version="1" changeset="4547446" timestamp="2010-04-28T08:30:25Z"/>
+ <node id="718562658" lat="56.3317767" lon="36.7092666" user="Frantony" uid="83097" visible="true" version="1" changeset="4593583" timestamp="2010-05-03T10:46:11Z"/>
+ <node id="718562663" lat="56.3322910" lon="36.7118747" user="Frantony" uid="83097" visible="true" version="1" changeset="4593583" timestamp="2010-05-03T10:46:11Z">
+  <tag k="name" v="012"/>
+ </node>
+ <node id="718562674" lat="56.3322065" lon="36.7150614" user="Frantony" uid="83097" visible="true" version="1" changeset="4593583" timestamp="2010-05-03T10:46:12Z">
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="name" v="Сбербанк"/>
+ </node>
+ <node id="718562679" lat="56.3321611" lon="36.7147188" user="Frantony" uid="83097" visible="true" version="1" changeset="4593583" timestamp="2010-05-03T10:46:12Z">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="718569073" lat="56.3300630" lon="36.7149874" user="Frantony" uid="83097" visible="true" version="1" changeset="4593637" timestamp="2010-05-03T10:54:12Z">
+  <tag k="amenity" v="post_office"/>
+ </node>
+ <node id="730753762" lat="56.1956956" lon="36.9526223" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:30:29Z"/>
+ <node id="730769946" lat="56.2074737" lon="36.9331119" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:30:31Z">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="736822489" lat="56.3336364" lon="36.7142287" user="Shabrych" uid="233025" visible="true" version="1" changeset="4721183" timestamp="2010-05-16T19:07:52Z"/>
+ <node id="814975359" lat="56.3326144" lon="36.7142099" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:35Z"/>
+ <node id="814975363" lat="56.3323155" lon="36.7148534" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:35Z"/>
+ <node id="814975381" lat="56.3322956" lon="36.7140977" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:35Z"/>
+ <node id="814975410" lat="56.3327160" lon="36.7141401" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:36Z"/>
+ <node id="814975427" lat="56.3322379" lon="36.7144856" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:36Z"/>
+ <node id="814975455" lat="56.3325533" lon="36.7139207" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:37Z"/>
+ <node id="814975501" lat="56.3327968" lon="36.7145229" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:38Z"/>
+ <node id="814975508" lat="56.3323598" lon="36.7144019" user="klinosm" uid="315638" visible="true" version="1" changeset="5208061" timestamp="2010-07-13T13:37:39Z"/>
+ <node id="825411191" lat="56.3312656" lon="36.7230215" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="825411192" lat="56.3294719" lon="36.7244424" user="alexinc" uid="290619" visible="true" version="1" changeset="5267057" timestamp="2010-07-20T04:38:20Z"/>
+ <node id="832572350" lat="56.3320113" lon="36.7120009" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:52Z"/>
+ <node id="832572352" lat="56.3320406" lon="36.7159019" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:14Z"/>
+ <node id="832572353" lat="56.3316273" lon="36.7146018" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:43Z"/>
+ <node id="832572355" lat="56.3321131" lon="36.7145820" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:08Z"/>
+ <node id="832572357" lat="56.3323487" lon="36.7132062" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:05Z"/>
+ <node id="832572358" lat="56.3315434" lon="36.7169783" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:50Z"/>
+ <node id="832572360" lat="56.3327385" lon="36.7159170" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:48Z"/>
+ <node id="832572363" lat="56.3314222" lon="36.7170615" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:17Z"/>
+ <node id="832572365" lat="56.3322930" lon="36.7155473" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:14Z"/>
+ <node id="832572366" lat="56.3316487" lon="36.7129037" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:57Z"/>
+ <node id="832572367" lat="56.3325119" lon="36.7160615" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:03Z"/>
+ <node id="832572369" lat="56.3321174" lon="36.7125392" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:03Z"/>
+ <node id="832572370" lat="56.3304610" lon="36.7153354" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:49Z"/>
+ <node id="832572373" lat="56.3317781" lon="36.7145619" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:50Z"/>
+ <node id="832572374" lat="56.3323392" lon="36.7160929" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:08Z"/>
+ <node id="832572375" lat="56.3305128" lon="36.7156033" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="832572377" lat="56.3319438" lon="36.7146900" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:11Z"/>
+ <node id="832572378" lat="56.3317029" lon="36.7136206" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:55Z"/>
+ <node id="832572379" lat="56.3325544" lon="36.7171909" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:01Z"/>
+ <node id="832572380" lat="56.3316388" lon="36.7180875" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:53Z"/>
+ <node id="832572382" lat="56.3325947" lon="36.7164838" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:17Z"/>
+ <node id="832572383" lat="56.3317600" lon="36.7180042" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:48Z"/>
+ <node id="832572385" lat="56.3323267" lon="36.7157195" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:49Z"/>
+ <node id="832572386" lat="56.3315314" lon="36.7123089" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:07Z"/>
+ <node id="832572387" lat="56.3328213" lon="36.7163392" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:12Z"/>
+ <node id="832572388" lat="56.3322060" lon="36.7124824" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:04Z"/>
+ <node id="832572389" lat="56.3316791" lon="36.7148697" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:45Z"/>
+ <node id="832572391" lat="56.3320724" lon="36.7143742" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:58Z"/>
+ <node id="832572392" lat="56.3323983" lon="36.7172905" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:51Z"/>
+ <node id="832572393" lat="56.3321319" lon="36.7156499" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:55Z"/>
+ <node id="832572394" lat="56.3315713" lon="36.7129534" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:14Z"/>
+ <node id="832572398" lat="56.3321831" lon="36.7161924" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:01Z"/>
+ <node id="834083481" lat="56.3267100" lon="36.7235907" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:22Z"/>
+ <node id="834083487" lat="56.3278940" lon="36.7236583" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:22Z"/>
+ <node id="834083504" lat="56.3279547" lon="36.7244775" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:23Z"/>
+ <node id="834083508" lat="56.3280418" lon="36.7195564" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:23Z"/>
+ <node id="834083511" lat="56.3289475" lon="36.7215166" user="klinosm" uid="315638" visible="true" version="2" changeset="5702486" timestamp="2010-09-06T20:34:50Z"/>
+ <node id="834083527" lat="56.3269340" lon="36.7199075" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:06Z"/>
+ <node id="834083531" lat="56.3296487" lon="36.7218884" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:24Z"/>
+ <node id="834083540" lat="56.3256322" lon="36.7245087" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:24Z"/>
+ <node id="834083543" lat="56.3301555" lon="36.7192705" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:24Z"/>
+ <node id="834083569" lat="56.3290116" lon="36.7240746" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:26Z"/>
+ <node id="834083571" lat="56.3266651" lon="36.7232574" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:26Z"/>
+ <node id="834083581" lat="56.3284798" lon="36.7206650" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:26Z"/>
+ <node id="834083600" lat="56.3272185" lon="36.7199226" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:27Z"/>
+ <node id="834083603" lat="56.3296977" lon="36.7221099" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:27Z"/>
+ <node id="834083607" lat="56.3293179" lon="36.7227161" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:28Z"/>
+ <node id="834083626" lat="56.3299346" lon="36.7181858" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:28Z"/>
+ <node id="834083641" lat="56.3266801" lon="36.7232213" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:29Z"/>
+ <node id="834083644" lat="56.3279812" lon="36.7238030" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:29Z"/>
+ <node id="834083652" lat="56.3280014" lon="36.7242214" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:29Z"/>
+ <node id="834083667" lat="56.3285145" lon="36.7204722" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:24Z"/>
+ <node id="834083670" lat="56.3291070" lon="36.7222782" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:30Z"/>
+ <node id="834083684" lat="56.3294805" lon="36.7197402" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:31Z"/>
+ <node id="834083697" lat="56.3263329" lon="36.7228294" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:31Z"/>
+ <node id="834083717" lat="56.3264902" lon="36.7229285" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:32Z"/>
+ <node id="834083721" lat="56.3284660" lon="36.7225366" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:32Z"/>
+ <node id="834083724" lat="56.3284360" lon="36.7204587" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:32Z"/>
+ <node id="834083729" lat="56.3265492" lon="36.7195922" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:47Z"/>
+ <node id="834083740" lat="56.3272593" lon="36.7201103" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:33Z"/>
+ <node id="834083742" lat="56.3298402" lon="36.7245934" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:33Z"/>
+ <node id="834083752" lat="56.3257511" lon="36.7238008" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:33Z"/>
+ <node id="834083754" lat="56.3295715" lon="36.7239646" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:33Z"/>
+ <node id="834083768" lat="56.3296589" lon="36.7192573" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:34Z"/>
+ <node id="834083779" lat="56.3300909" lon="36.7189429" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:35Z"/>
+ <node id="834083789" lat="56.3266176" lon="36.7235457" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:35Z"/>
+ <node id="834083794" lat="56.3284776" lon="36.7213311" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:35Z"/>
+ <node id="834083796" lat="56.3274094" lon="36.7238701" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:36Z"/>
+ <node id="834083801" lat="56.3285231" lon="36.7215449" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:36Z"/>
+ <node id="834083803" lat="56.3291408" lon="36.7211006" user="klinosm" uid="315638" visible="true" version="2" changeset="5702486" timestamp="2010-09-06T20:34:49Z"/>
+ <node id="834083822" lat="56.3282230" lon="36.7190594" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="834083823" lat="56.3291936" lon="36.7213395" user="klinosm" uid="315638" visible="true" version="2" changeset="5702486" timestamp="2010-09-06T20:34:49Z"/>
+ <node id="834083830" lat="56.3287912" lon="36.7202362" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:37Z"/>
+ <node id="834083853" lat="56.3288733" lon="36.7246708" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:38Z"/>
+ <node id="834083855" lat="56.3266301" lon="36.7234826" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:38Z"/>
+ <node id="834083858" lat="56.3273056" lon="36.7212408" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:38Z"/>
+ <node id="834083870" lat="56.3303937" lon="36.7241532" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:39Z"/>
+ <node id="834083881" lat="56.3295297" lon="36.7193441" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:39Z"/>
+ <node id="834083895" lat="56.3302149" lon="36.7188596" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:40Z"/>
+ <node id="834083899" lat="56.3267225" lon="36.7229600" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:40Z"/>
+ <node id="834083902" lat="56.3286294" lon="36.7243946" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:40Z"/>
+ <node id="834083915" lat="56.3267650" lon="36.7232619" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:40Z"/>
+ <node id="834083922" lat="56.3287433" lon="36.7227333" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:41Z"/>
+ <node id="834083926" lat="56.3271172" lon="36.7234421" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:41Z"/>
+ <node id="834083936" lat="56.3268135" lon="36.7199928" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:17Z"/>
+ <node id="834083952" lat="56.3302036" lon="36.7194880" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:42Z"/>
+ <node id="834083958" lat="56.3294571" lon="36.7182792" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:42Z"/>
+ <node id="834083979" lat="56.3267775" lon="36.7225231" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:43Z"/>
+ <node id="834083980" lat="56.3287687" lon="36.7246028" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:43Z"/>
+ <node id="834083985" lat="56.3286465" lon="36.7215689" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:43Z"/>
+ <node id="834083988" lat="56.3256930" lon="36.7199732" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:49Z"/>
+ <node id="834084008" lat="56.3280010" lon="36.7193687" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:44Z"/>
+ <node id="834084012" lat="56.3303400" lon="36.7239333" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:44Z"/>
+ <node id="834084019" lat="56.3255316" lon="36.7244493" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:44Z"/>
+ <node id="834084042" lat="56.3297075" lon="36.7195929" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:46Z"/>
+ <node id="834084046" lat="56.3300587" lon="36.7181025" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:46Z"/>
+ <node id="834084062" lat="56.3268449" lon="36.7228925" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:46Z"/>
+ <node id="834084065" lat="56.3285233" lon="36.7216502" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:47Z"/>
+ <node id="834084067" lat="56.3270695" lon="36.7237147" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:47Z"/>
+ <node id="834084074" lat="56.3274286" lon="36.7220569" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:47Z"/>
+ <node id="834084091" lat="56.3263230" lon="36.7244596" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:48Z"/>
+ <node id="834084097" lat="56.3288421" lon="36.7204660" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:48Z"/>
+ <node id="834084118" lat="56.3290536" lon="36.7242784" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:49Z"/>
+ <node id="834084127" lat="56.3264602" lon="36.7233925" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:49Z"/>
+ <node id="834084131" lat="56.3285532" lon="36.7226813" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:49Z"/>
+ <node id="834084139" lat="56.3288665" lon="36.7226519" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:50Z"/>
+ <node id="834084143" lat="56.3257399" lon="36.7201823" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:46Z"/>
+ <node id="834084146" lat="56.3283399" lon="36.7189809" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:24Z"/>
+ <node id="834084149" lat="56.3297865" lon="36.7243734" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:50Z"/>
+ <node id="834084165" lat="56.3257072" lon="36.7240958" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:51Z"/>
+ <node id="834084168" lat="56.3297556" lon="36.7198104" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:51Z"/>
+ <node id="834084181" lat="56.3288721" lon="36.7238662" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:51Z"/>
+ <node id="834084187" lat="56.3272993" lon="36.7238453" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:52Z"/>
+ <node id="834084188" lat="56.3289732" lon="36.7241583" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:52Z"/>
+ <node id="834084198" lat="56.3265352" lon="36.7232033" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:52Z"/>
+ <node id="834084214" lat="56.3274741" lon="36.7222706" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:53Z"/>
+ <node id="834084221" lat="56.3265024" lon="36.7193830" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:38Z"/>
+ <node id="834084232" lat="56.3272330" lon="36.7212813" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:07Z"/>
+ <node id="834084238" lat="56.3294675" lon="36.7226173" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:53Z"/>
+ <node id="834084252" lat="56.3297210" lon="36.7238657" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:54Z"/>
+ <node id="834084259" lat="56.3295313" lon="36.7199700" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:55Z"/>
+ <node id="834084277" lat="56.3287928" lon="36.7245504" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:55Z"/>
+ <node id="834084281" lat="56.3273627" lon="36.7241261" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:56Z"/>
+ <node id="834084284" lat="56.3286315" lon="36.7203936" user="sanyasi" uid="135419" visible="true" version="2" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="834084294" lat="56.3288947" lon="36.7212777" user="klinosm" uid="315638" visible="true" version="2" changeset="5702486" timestamp="2010-09-06T20:34:50Z"/>
+ <node id="834084302" lat="56.3256120" lon="36.7240066" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:56Z"/>
+ <node id="834084333" lat="56.3266801" lon="36.7228114" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:58Z"/>
+ <node id="834084340" lat="56.3273470" lon="36.7235727" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:58Z"/>
+ <node id="834084347" lat="56.3273495" lon="36.7214471" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:59Z"/>
+ <node id="834084352" lat="56.3271124" lon="36.7213666" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:05Z"/>
+ <node id="834084354" lat="56.3263757" lon="36.7241698" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:59Z"/>
+ <node id="834084355" lat="56.3291560" lon="36.7224997" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:59Z"/>
+ <node id="834084368" lat="56.3257039" lon="36.7240608" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:41:59Z"/>
+ <node id="834084379" lat="56.3293278" lon="36.7183660" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:42:00Z"/>
+ <node id="881174335" lat="56.3303120" lon="36.7119424" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="881174348" lat="56.3317890" lon="36.7033103" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:07Z"/>
+ <node id="881174368" lat="56.3320875" lon="36.7080639" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:59Z"/>
+ <node id="881174382" lat="56.3320469" lon="36.7064214" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:08Z"/>
+ <node id="881174390" lat="56.3321113" lon="36.7074535" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:08Z"/>
+ <node id="881174394" lat="56.3318857" lon="36.7053892" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:08Z"/>
+ <node id="881174402" lat="56.3317068" lon="36.7096947" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:59Z"/>
+ <node id="881174423" lat="56.3308863" lon="36.7113060" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:08Z"/>
+ <node id="881174428" lat="56.3319686" lon="36.7087720" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:59Z"/>
+ <node id="881174436" lat="56.3312973" lon="36.7105064" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:09Z"/>
+ <node id="881174464" lat="56.3318132" lon="36.7042989" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:09Z"/>
+ <node id="881174476" lat="56.3303410" lon="36.7089585" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:35Z"/>
+ <node id="890854181" lat="56.3260360" lon="36.7206595" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:01Z"/>
+ <node id="890854199" lat="56.3263908" lon="36.7204402" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:01Z"/>
+ <node id="890854219" lat="56.3264314" lon="36.7206542" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:02Z"/>
+ <node id="890854228" lat="56.3264220" lon="36.7221684" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:02Z"/>
+ <node id="890854232" lat="56.3260767" lon="36.7208736" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:02Z"/>
+ <node id="890854234" lat="56.3267235" lon="36.7219810" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:02Z"/>
+ <node id="890854257" lat="56.3263756" lon="36.7219253" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:03Z"/>
+ <node id="890854274" lat="56.3266770" lon="36.7217379" user="klinosm" uid="315638" visible="true" version="1" changeset="5648060" timestamp="2010-08-31T18:47:03Z"/>
+ <node id="891605151" lat="56.3265260" lon="36.7179501" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:48Z"/>
+ <node id="891605160" lat="56.3265926" lon="36.7182710" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="891605168" lat="56.3262392" lon="36.7182218" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:33Z"/>
+ <node id="891605179" lat="56.3278145" lon="36.7174460" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:45Z"/>
+ <node id="891605186" lat="56.3264516" lon="36.7193527" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:34Z"/>
+ <node id="891605192" lat="56.3276552" lon="36.7188943" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:47Z"/>
+ <node id="891605195" lat="56.3277479" lon="36.7171251" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:41Z"/>
+ <node id="891605209" lat="56.3266004" lon="36.7192618" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="891605217" lat="56.3268341" lon="36.7195161" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="891605225" lat="56.3263880" lon="36.7181309" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:47Z"/>
+ <node id="891605228" lat="56.3275873" lon="36.7186024" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:49Z"/>
+ <node id="891605229" lat="56.3267662" lon="36.7192242" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:40Z"/>
+ <node id="891731946" lat="56.3265528" lon="36.7156527" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731948" lat="56.3316238" lon="36.7183532" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:07Z"/>
+ <node id="891731949" lat="56.3299917" lon="36.7160358" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731953" lat="56.3302317" lon="36.7152101" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731963" lat="56.3302766" lon="36.7168208" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:00Z"/>
+ <node id="891731967" lat="56.3302715" lon="36.7165712" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731968" lat="56.3280685" lon="36.7171618" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:38Z"/>
+ <node id="891731976" lat="56.3266405" lon="36.7167425" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731977" lat="56.3291615" lon="36.7159900" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731981" lat="56.3268605" lon="36.7151273" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731985" lat="56.3303267" lon="36.7178823" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:39Z"/>
+ <node id="891731986" lat="56.3301234" lon="36.7169181" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:16Z"/>
+ <node id="891731992" lat="56.3283102" lon="36.7159985" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891731994" lat="56.3311976" lon="36.7164166" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891731998" lat="56.3292585" lon="36.7154053" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891732007" lat="56.3294308" lon="36.7177307" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:35Z"/>
+ <node id="891732011" lat="56.3291470" lon="36.7169242" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:33Z"/>
+ <node id="891732014" lat="56.3295892" lon="36.7163841" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891732017" lat="56.3264956" lon="36.7153772" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891732018" lat="56.3316759" lon="36.7186000" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:19Z"/>
+ <node id="891732019" lat="56.3301735" lon="36.7160656" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:40Z"/>
+ <node id="891732028" lat="56.3282743" lon="36.7182082" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:51Z"/>
+ <node id="891732033" lat="56.3268003" lon="36.7166345" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732034" lat="56.3296214" lon="36.7156746" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732038" lat="56.3272304" lon="36.7152056" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732047" lat="56.3311828" lon="36.7202301" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:50Z"/>
+ <node id="891732050" lat="56.3271707" lon="36.7149179" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732051" lat="56.3304823" lon="36.7186924" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732056" lat="56.3282801" lon="36.7158490" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732059" lat="56.3314245" lon="36.7162589" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732067" lat="56.3292189" lon="36.7152087" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:41Z"/>
+ <node id="891732069" lat="56.3286296" lon="36.7172742" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:33Z"/>
+ <node id="891732072" lat="56.3306654" lon="36.7187901" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732073" lat="56.3297210" lon="36.7170235" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732074" lat="56.3267102" lon="36.7152323" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732076" lat="56.3319268" lon="36.7184277" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:57Z"/>
+ <node id="891732085" lat="56.3314975" lon="36.7180903" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732086" lat="56.3298724" lon="36.7154469" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732092" lat="56.3284013" lon="36.7181269" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:30Z"/>
+ <node id="891732096" lat="56.3283351" lon="36.7165647" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732100" lat="56.3269203" lon="36.7154150" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:42Z"/>
+ <node id="891732109" lat="56.3309642" lon="36.7203867" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:53Z"/>
+ <node id="891732111" lat="56.3306330" lon="36.7185982" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732112" lat="56.3300709" lon="36.7155963" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732113" lat="56.3302393" lon="36.7175117" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:19Z"/>
+ <node id="891732117" lat="56.3285550" lon="36.7156691" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732129" lat="56.3289592" lon="36.7156013" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732132" lat="56.3313137" lon="36.7157404" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732137" lat="56.3289196" lon="36.7154046" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732139" lat="56.3303851" lon="36.7217070" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:59Z"/>
+ <node id="891732141" lat="56.3307792" lon="36.7193787" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732145" lat="56.3298705" lon="36.7169232" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732147" lat="56.3273721" lon="36.7159158" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:43Z"/>
+ <node id="891732154" lat="56.3318747" lon="36.7181809" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:13Z"/>
+ <node id="891732156" lat="56.3308747" lon="36.7185180" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732159" lat="56.3281954" lon="36.7170806" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:42Z"/>
+ <node id="891732164" lat="56.3290513" lon="36.7160592" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732179" lat="56.3266153" lon="36.7170564" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732183" lat="56.3291994" lon="36.7181349" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:43Z"/>
+ <node id="891732185" lat="56.3265624" lon="36.7168014" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732186" lat="56.3308816" lon="36.7200118" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:03Z"/>
+ <node id="891732187" lat="56.3275184" lon="36.7165029" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732189" lat="56.3316085" lon="36.7186501" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732190" lat="56.3279585" lon="36.7158237" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:44Z"/>
+ <node id="891732192" lat="56.3305327" lon="36.7170225" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:51Z"/>
+ <node id="891732209" lat="56.3300566" lon="36.7202221" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:15Z"/>
+ <node id="891732216" lat="56.3290996" lon="36.7162815" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732218" lat="56.3309384" lon="36.7192786" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732230" lat="56.3297388" lon="36.7162838" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732231" lat="56.3269195" lon="36.7162215" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732233" lat="56.3308294" lon="36.7183033" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732235" lat="56.3302818" lon="36.7154574" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:45Z"/>
+ <node id="891732240" lat="56.3260278" lon="36.7174531" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732243" lat="56.3284736" lon="36.7186015" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:43Z"/>
+ <node id="891732246" lat="56.3311002" lon="36.7198552" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:54Z"/>
+ <node id="891732260" lat="56.3269346" lon="36.7168971" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732261" lat="56.3315599" lon="36.7184199" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732264" lat="56.3301401" lon="36.7159380" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732266" lat="56.3278169" lon="36.7151420" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732268" lat="56.3305853" lon="36.7172919" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:57Z"/>
+ <node id="891732272" lat="56.3300248" lon="36.7161593" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732282" lat="56.3298878" lon="36.7203436" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:20Z"/>
+ <node id="891732285" lat="56.3268516" lon="36.7168817" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732288" lat="56.3283834" lon="36.7167870" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:46Z"/>
+ <node id="891732291" lat="56.3308246" lon="36.7186900" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732292" lat="56.3268617" lon="36.7159429" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732296" lat="56.3314522" lon="36.7178756" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732299" lat="56.3313604" lon="36.7185570" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732301" lat="56.3274848" lon="36.7153663" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732313" lat="56.3259749" lon="36.7171981" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:47Z"/>
+ <node id="891732316" lat="56.3284292" lon="36.7183770" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:33Z"/>
+ <node id="891732318" lat="56.3299144" lon="36.7176910" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:37Z"/>
+ <node id="891732321" lat="56.3286830" lon="36.7175313" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:31Z"/>
+ <node id="891732323" lat="56.3298572" lon="36.7174282" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:36Z"/>
+ <node id="891732332" lat="56.3268763" lon="36.7166165" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732335" lat="56.3267674" lon="36.7155078" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732339" lat="56.3303399" lon="36.7171449" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:09Z"/>
+ <node id="891732341" lat="56.3301228" lon="36.7166649" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732347" lat="56.3302163" lon="36.7218285" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:35:19Z"/>
+ <node id="891732351" lat="56.3266918" lon="36.7169896" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732354" lat="56.3292067" lon="36.7162043" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732357" lat="56.3296666" lon="36.7158889" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732358" lat="56.3273143" lon="36.7156373" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732362" lat="56.3314090" lon="36.7187872" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732365" lat="56.3276263" lon="36.7160479" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732366" lat="56.3285851" lon="36.7158185" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:48Z"/>
+ <node id="891732379" lat="56.3310868" lon="36.7158982" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:49Z"/>
+ <node id="891732382" lat="56.3291550" lon="36.7179104" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:30Z"/>
+ <node id="891732384" lat="56.3294881" lon="36.7179934" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:34Z"/>
+ <node id="891732388" lat="56.3292004" lon="36.7171813" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:51Z"/>
+ <node id="891732389" lat="56.3304773" lon="36.7177881" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:49Z"/>
+ <node id="891732395" lat="56.3274602" lon="36.7162222" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:49Z"/>
+ <node id="899058480" lat="56.3281146" lon="36.7117351" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:33Z"/>
+ <node id="899058487" lat="56.3255953" lon="36.7128582" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:35Z"/>
+ <node id="899058496" lat="56.3280561" lon="36.7113925" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:36Z"/>
+ <node id="899058501" lat="56.3273341" lon="36.7122086" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:37Z"/>
+ <node id="899058505" lat="56.3281549" lon="36.7099714" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:38Z"/>
+ <node id="899058520" lat="56.3275545" lon="36.7116712" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:40Z"/>
+ <node id="899058544" lat="56.3279867" lon="36.7100699" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:43Z"/>
+ <node id="899058564" lat="56.3272928" lon="36.7119638" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:44Z"/>
+ <node id="899058567" lat="56.3271214" lon="36.7112442" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:45Z"/>
+ <node id="899058579" lat="56.3266817" lon="36.7122513" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:46Z"/>
+ <node id="899058585" lat="56.3256394" lon="36.7130982" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:47Z"/>
+ <node id="899058591" lat="56.3273050" lon="36.7111435" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:47Z"/>
+ <node id="899058609" lat="56.3263916" lon="36.7126484" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:50Z"/>
+ <node id="899058611" lat="56.3284159" lon="36.7114199" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:50Z"/>
+ <node id="899058617" lat="56.3274306" lon="36.7118882" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:51Z"/>
+ <node id="899058618" lat="56.3272396" lon="36.7119452" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:51Z"/>
+ <node id="899058621" lat="56.3276130" lon="36.7120138" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:51Z"/>
+ <node id="899058627" lat="56.3267303" lon="36.7125398" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:53Z"/>
+ <node id="899058630" lat="56.3263475" lon="36.7124084" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:54Z"/>
+ <node id="899058632" lat="56.3282477" lon="36.7115185" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:54Z"/>
+ <node id="899545396" lat="56.3291837" lon="36.7211153" user="klinosm" uid="315638" visible="true" version="1" changeset="5702486" timestamp="2010-09-06T20:34:48Z"/>
+ <node id="899545406" lat="56.3298199" lon="36.7220181" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:52Z"/>
+ <node id="899545408" lat="56.3298849" lon="36.7215874" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:13Z"/>
+ <node id="899545410" lat="56.3291309" lon="36.7208764" user="klinosm" uid="315638" visible="true" version="1" changeset="5702486" timestamp="2010-09-06T20:34:48Z"/>
+ <node id="899545411" lat="56.3293770" lon="36.7206993" user="klinosm" uid="315638" visible="true" version="1" changeset="5702486" timestamp="2010-09-06T20:34:48Z"/>
+ <node id="899545413" lat="56.3300154" lon="36.7218773" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:05Z"/>
+ <node id="899545414" lat="56.3294298" lon="36.7209382" user="klinosm" uid="315638" visible="true" version="1" changeset="5702486" timestamp="2010-09-06T20:34:48Z"/>
+ <node id="899545416" lat="56.3296595" lon="36.7205684" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:21Z"/>
+ <node id="899545418" lat="56.3299422" lon="36.7215462" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:10Z"/>
+ <node id="899545429" lat="56.3295212" lon="36.7206680" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:50Z"/>
+ <node id="900878636" lat="56.3313364" lon="36.7133266" user="alexinc" uid="290619" visible="true" version="1" changeset="5707877" timestamp="2010-09-07T13:11:28Z">
+  <tag k="amenity" v="parking"/>
+ </node>
+ <node id="902635446" lat="56.3321230" lon="36.7263518" user="sanyasi" uid="135419" visible="true" version="1" changeset="5716846" timestamp="2010-09-08T12:35:23Z"/>
+ <node id="904034540" lat="56.1957241" lon="36.9527241" user="wowik" uid="115477" visible="true" version="4" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904034546" lat="56.1908321" lon="36.9607600" user="wowik" uid="115477" visible="true" version="2" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904034551" lat="56.2075052" lon="36.9331869" user="wowik" uid="115477" visible="true" version="4" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904034555" lat="56.1908709" lon="36.9608029" user="wowik" uid="115477" visible="true" version="5" changeset="5733319" timestamp="2010-09-09T14:54:20Z"/>
+ <node id="904044320" lat="56.2951807" lon="36.7410301" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="904044323" lat="56.2091223" lon="36.9300433" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904044325" lat="56.2111570" lon="36.9253548" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904044326" lat="56.2132095" lon="36.9188317" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:11Z"/>
+ <node id="904044327" lat="56.2178510" lon="36.9020732" user="wowik" uid="115477" visible="true" version="3" changeset="5733319" timestamp="2010-09-09T14:53:11Z">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="904044328" lat="56.2492396" lon="36.7865560" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044330" lat="56.2508728" lon="36.7818997" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044331" lat="56.2523867" lon="36.7784719" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044333" lat="56.2545651" lon="36.7744271" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044334" lat="56.2571189" lon="36.7706023" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044335" lat="56.2590378" lon="36.7682848" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044336" lat="56.2609208" lon="36.7663215" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044337" lat="56.2630004" lon="36.7646370" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044338" lat="56.2655626" lon="36.7628990" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044340" lat="56.2871073" lon="36.7496006" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:34Z"/>
+ <node id="904044341" lat="56.2897363" lon="36.7474119" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904044343" lat="56.2930319" lon="36.7437534" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904044344" lat="56.3045331" lon="36.7295913" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904044345" lat="56.3063485" lon="36.7277352" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904044347" lat="56.3118446" lon="36.7237709" user="wowik" uid="115477" visible="true" version="2" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904045552" lat="56.3301128" lon="36.7121301" user="wowik" uid="115477" visible="true" version="1" changeset="5732576" timestamp="2010-09-09T13:45:35Z"/>
+ <node id="904045553" lat="56.3301128" lon="36.7120443" user="wowik" uid="115477" visible="true" version="1" changeset="5732576" timestamp="2010-09-09T13:45:36Z"/>
+ <node id="919489482" lat="56.3297085" lon="36.7153785" user="Wiseman" uid="215339" visible="true" version="1" changeset="5827747" timestamp="2010-09-20T10:14:08Z"/>
+ <node id="919489483" lat="56.3296096" lon="36.7147796" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:03Z"/>
+ <node id="919489485" lat="56.3294850" lon="36.7148868" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:01Z"/>
+ <node id="919489486" lat="56.3296267" lon="36.7154285" user="Wiseman" uid="215339" visible="true" version="1" changeset="5827747" timestamp="2010-09-20T10:14:08Z"/>
+ <node id="919489487" lat="56.3287465" lon="36.7103625" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:50Z"/>
+ <node id="919489488" lat="56.3285961" lon="36.7104150" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:20Z"/>
+ <node id="919489496" lat="56.3289132" lon="36.7121124" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:53Z"/>
+ <node id="919489497" lat="56.3291706" lon="36.7133857" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:58Z"/>
+ <node id="919489498" lat="56.3292913" lon="36.7132816" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:18Z"/>
+ <node id="919489499" lat="56.3290444" lon="36.7120314" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:49Z"/>
+ <node id="921275847" lat="56.3253143" lon="36.7134049" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:55Z"/>
+ <node id="921301276" lat="56.3294907" lon="36.7113115" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:16Z"/>
+ <node id="921301288" lat="56.3261852" lon="36.7110615" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:21Z"/>
+ <node id="921301292" lat="56.3224479" lon="36.7291444" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:17Z"/>
+ <node id="921301304" lat="56.3233309" lon="36.7145866" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:05Z"/>
+ <node id="921301310" lat="56.3273604" lon="36.7124418" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:18Z"/>
+ <node id="921301311" lat="56.3229768" lon="36.7353954" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:18Z"/>
+ <node id="921301325" lat="56.3268084" lon="36.7126589" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:19Z"/>
+ <node id="921301326" lat="56.3272781" lon="36.7149027" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:19Z"/>
+ <node id="921301336" lat="56.3299803" lon="36.7071961" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:20Z"/>
+ <node id="921301337" lat="56.3297221" lon="36.7059344" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:20Z"/>
+ <node id="921301340" lat="56.3265980" lon="36.7107417" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:17Z"/>
+ <node id="921301345" lat="56.3275750" lon="36.7123899" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:21Z"/>
+ <node id="921301355" lat="56.3215920" lon="36.7138939" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:08Z"/>
+ <node id="921301361" lat="56.3324335" lon="36.7185762" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:22Z"/>
+ <node id="921301362" lat="56.3272008" lon="36.7124560" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:22Z"/>
+ <node id="921301368" lat="56.3265141" lon="36.7108209" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:34:57Z"/>
+ <node id="921301374" lat="56.3292659" lon="36.7115254" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:23Z"/>
+ <node id="921301378" lat="56.3320305" lon="36.7164529" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:23Z"/>
+ <node id="921301384" lat="56.3266744" lon="36.7106039" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:03Z"/>
+ <node id="921301385" lat="56.3315962" lon="36.7141653" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:24Z"/>
+ <node id="921301393" lat="56.3289800" lon="36.7116862" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:21Z"/>
+ <node id="921301401" lat="56.3249997" lon="36.7118238" user="klinosm" uid="315638" visible="true" version="3" changeset="5869573" timestamp="2010-09-25T10:34:53Z"/>
+ <node id="921301413" lat="56.3303491" lon="36.7107807" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:25Z"/>
+ <node id="921301414" lat="56.3217924" lon="36.7155239" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:25Z"/>
+ <node id="921301419" lat="56.3288226" lon="36.7116765" user="klinosm" uid="315638" visible="true" version="2" changeset="5869573" timestamp="2010-09-25T10:35:02Z"/>
+ <node id="925228520" lat="56.3310576" lon="36.7130186" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:06Z"/>
+ <node id="925228525" lat="56.3333908" lon="36.7159093" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:06Z"/>
+ <node id="925228541" lat="56.3297379" lon="36.7229208" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:07Z"/>
+ <node id="925228554" lat="56.3314680" lon="36.7123829" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:09Z"/>
+ <node id="925228557" lat="56.3312646" lon="36.7125258" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:09Z"/>
+ <node id="925228561" lat="56.3335125" lon="36.7165812" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:09Z"/>
+ <node id="925228567" lat="56.3319238" lon="36.7204179" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:09Z"/>
+ <node id="925228573" lat="56.3303995" lon="36.7226768" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:10Z"/>
+ <node id="925228575" lat="56.3304751" lon="36.7224395" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:10Z"/>
+ <node id="925228578" lat="56.3298247" lon="36.7233546" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:10Z"/>
+ <node id="925228600" lat="56.3303129" lon="36.7146641" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:12Z"/>
+ <node id="925228605" lat="56.3303662" lon="36.7225104" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:12Z"/>
+ <node id="925228627" lat="56.3296602" lon="36.7144324" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:13Z"/>
+ <node id="925228632" lat="56.3307853" lon="36.7143758" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:14Z"/>
+ <node id="925228646" lat="56.3309947" lon="36.7127273" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:14Z"/>
+ <node id="925228655" lat="56.3297787" lon="36.7150197" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:15Z"/>
+ <node id="925228664" lat="56.3303558" lon="36.7218433" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:16Z"/>
+ <node id="925228684" lat="56.3311073" lon="36.7126482" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:17Z"/>
+ <node id="925228689" lat="56.3333433" lon="36.7166808" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:17Z"/>
+ <node id="925228709" lat="56.3315910" lon="36.7204220" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:18Z"/>
+ <node id="925228711" lat="56.3299856" lon="36.7232498" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:18Z"/>
+ <node id="925228726" lat="56.3332812" lon="36.7155883" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:19Z"/>
+ <node id="925228730" lat="56.3331586" lon="36.7156605" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:19Z"/>
+ <node id="925228739" lat="56.3301976" lon="36.7144541" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:20Z"/>
+ <node id="925228764" lat="56.3315407" lon="36.7206819" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:22Z"/>
+ <node id="925228776" lat="56.3314446" lon="36.7197159" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:22Z"/>
+ <node id="925228797" lat="56.3302494" lon="36.7147107" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:24Z"/>
+ <node id="925228799" lat="56.3307448" lon="36.7141562" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:24Z"/>
+ <node id="925228801" lat="56.3315843" lon="36.7208878" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:24Z"/>
+ <node id="925228806" lat="56.3297476" lon="36.7222392" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:24Z"/>
+ <node id="925228826" lat="56.3310675" lon="36.7124635" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:26Z"/>
+ <node id="925228830" lat="56.3333443" lon="36.7159367" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:26Z"/>
+ <node id="925228847" lat="56.3314754" lon="36.7205000" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:27Z"/>
+ <node id="925228848" lat="56.3298671" lon="36.7228366" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:27Z"/>
+ <node id="925228860" lat="56.3312269" lon="36.7123515" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:28Z"/>
+ <node id="925228877" lat="56.3299319" lon="36.7229812" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:29Z"/>
+ <node id="925228883" lat="56.3313290" lon="36.7197939" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:29Z"/>
+ <node id="925228908" lat="56.3302747" lon="36.7144360" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:30Z"/>
+ <node id="925228925" lat="56.3315332" lon="36.7126845" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:31Z"/>
+ <node id="925228936" lat="56.3297846" lon="36.7143506" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:32Z"/>
+ <node id="925228940" lat="56.3319674" lon="36.7206238" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:32Z"/>
+ <node id="925228943" lat="56.3298514" lon="36.7146815" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:33Z"/>
+ <way id="78509717" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:29Z">
+  <nd ref="921301419"/>
+  <nd ref="921301345"/>
+  <nd ref="921301310"/>
+  <nd ref="921301362"/>
+  <nd ref="921301325"/>
+  <nd ref="921275847"/>
+  <nd ref="921301304"/>
+  <nd ref="921301414"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Октябрьская Б."/>
+ </way>
+ <way id="79190524" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:40Z">
+  <nd ref="925228799"/>
+  <nd ref="925228908"/>
+  <nd ref="925228600"/>
+  <nd ref="925228632"/>
+  <nd ref="925228799"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732166" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:14Z">
+  <nd ref="834083899"/>
+  <nd ref="834084062"/>
+  <nd ref="834083979"/>
+  <nd ref="834083697"/>
+  <nd ref="834084127"/>
+  <nd ref="834083855"/>
+  <nd ref="834083789"/>
+  <nd ref="834083481"/>
+  <nd ref="834083915"/>
+  <nd ref="834083641"/>
+  <nd ref="834083571"/>
+  <nd ref="834084198"/>
+  <nd ref="834083717"/>
+  <nd ref="834084333"/>
+  <nd ref="834083899"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="69732164" user="klinosm" uid="315638" visible="true" version="2" changeset="5652716" timestamp="2010-09-01T10:23:37Z">
+  <nd ref="834084181"/>
+  <nd ref="834083569"/>
+  <nd ref="834084188"/>
+  <nd ref="834084118"/>
+  <nd ref="834083853"/>
+  <nd ref="834084277"/>
+  <nd ref="834083980"/>
+  <nd ref="834083902"/>
+  <nd ref="834084181"/>
+  <tag k="amenity" v="cinema"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="МИР"/>
+ </way>
+ <way id="75454753" user="klinosm" uid="315638" visible="true" version="3" changeset="5764705" timestamp="2010-09-12T21:25:31Z">
+  <nd ref="890854274"/>
+  <nd ref="890854234"/>
+  <nd ref="890854228"/>
+  <nd ref="890854257"/>
+  <nd ref="890854274"/>
+  <tag k="addr:housenumber" v="5/22"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518476" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:49Z">
+  <nd ref="891732266"/>
+  <nd ref="891732190"/>
+  <nd ref="891732365"/>
+  <nd ref="891732301"/>
+  <nd ref="891732266"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732149" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:59Z">
+  <nd ref="834084008"/>
+  <nd ref="834083508"/>
+  <nd ref="834083740"/>
+  <nd ref="834083600"/>
+  <nd ref="834084008"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:street" v="ул. Менделеева"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75518506" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732230"/>
+  <nd ref="891732145"/>
+  <nd ref="891732073"/>
+  <nd ref="891732014"/>
+  <nd ref="891732230"/>
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518535" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:55Z">
+  <nd ref="891732389"/>
+  <nd ref="891732111"/>
+  <nd ref="891732051"/>
+  <nd ref="891731985"/>
+  <nd ref="891732389"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="69565449" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:58Z">
+  <nd ref="832572358"/>
+  <nd ref="832572383"/>
+  <nd ref="832572380"/>
+  <nd ref="832572363"/>
+  <nd ref="832572358"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:street" v="ул. Менделеева"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75512083" user="klinosm" uid="315638" visible="true" version="1" changeset="5652716" timestamp="2010-09-01T10:23:31Z">
+  <nd ref="891605195"/>
+  <nd ref="891605179"/>
+  <nd ref="891605160"/>
+  <nd ref="891605151"/>
+  <nd ref="891605195"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="75518533" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:54Z">
+  <nd ref="891732395"/>
+  <nd ref="891732187"/>
+  <nd ref="891732260"/>
+  <nd ref="891732332"/>
+  <nd ref="891732395"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75518510" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732296"/>
+  <nd ref="891732085"/>
+  <nd ref="891732156"/>
+  <nd ref="891732233"/>
+  <nd ref="891732296"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:street" v="ул. Менделеева"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="69732155" user="klinosm" uid="315638" visible="true" version="2" changeset="5652716" timestamp="2010-09-01T10:23:31Z">
+  <nd ref="834083527"/>
+  <nd ref="834084232"/>
+  <nd ref="834084352"/>
+  <nd ref="834083936"/>
+  <nd ref="834083527"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="76738156" user="wowik" uid="115477" visible="true" version="1" changeset="5733319" timestamp="2010-09-09T14:53:11Z">
+  <nd ref="904034555"/>
+  <nd ref="904034540"/>
+  <nd ref="904034551"/>
+  <nd ref="904044323"/>
+  <nd ref="904044325"/>
+  <nd ref="904044326"/>
+  <nd ref="904044327"/>
+  <nd ref="904044328"/>
+  <nd ref="904044330"/>
+  <nd ref="904044331"/>
+  <nd ref="904044333"/>
+  <nd ref="904044334"/>
+  <nd ref="904044335"/>
+  <nd ref="904044336"/>
+  <nd ref="904044337"/>
+  <nd ref="904044338"/>
+  <nd ref="904044340"/>
+  <nd ref="904044341"/>
+  <nd ref="904044343"/>
+  <nd ref="904044320"/>
+  <nd ref="904044344"/>
+  <nd ref="904044345"/>
+  <nd ref="904044347"/>
+  <nd ref="904045552"/>
+  <nd ref="881174335"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Октябрьская железная дорога"/>
+  <tag k="railway" v="rail"/>
+  <tag k="voltage" v="3000"/>
+ </way>
+ <way id="79190568" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:47Z">
+  <nd ref="925228739"/>
+  <nd ref="925228943"/>
+  <nd ref="925228936"/>
+  <nd ref="925228627"/>
+  <nd ref="925228655"/>
+  <nd ref="925228797"/>
+  <nd ref="925228739"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518478" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:49Z">
+  <nd ref="891732246"/>
+  <nd ref="891732047"/>
+  <nd ref="891732109"/>
+  <nd ref="891732186"/>
+  <nd ref="891732246"/>
+  <tag k="addr:housenumber" v="44/1"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="кафе Виктория"/>
+  <tag k="shop" v="convenience"/>
+ </way>
+ <way id="41133503" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:44Z">
+  <nd ref="921301326"/>
+  <nd ref="502068334"/>
+  <nd ref="418399252"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Новая"/>
+ </way>
+ <way id="4412252" user="wowik" uid="115477" visible="true" version="16" changeset="5732576" timestamp="2010-09-09T13:45:36Z">
+  <nd ref="904034546"/>
+  <nd ref="730753762"/>
+  <nd ref="325044435"/>
+  <nd ref="730769946"/>
+  <nd ref="27000042"/>
+  <nd ref="27000043"/>
+  <nd ref="27000044"/>
+  <nd ref="449631908"/>
+  <nd ref="325044437"/>
+  <nd ref="27000046"/>
+  <nd ref="27000048"/>
+  <nd ref="27000049"/>
+  <nd ref="325044438"/>
+  <nd ref="27000050"/>
+  <nd ref="27000051"/>
+  <nd ref="27000053"/>
+  <nd ref="27000054"/>
+  <nd ref="27000055"/>
+  <nd ref="27000056"/>
+  <nd ref="27000057"/>
+  <nd ref="330035185"/>
+  <nd ref="27000058"/>
+  <nd ref="330035181"/>
+  <nd ref="27000059"/>
+  <nd ref="451739639"/>
+  <nd ref="325044440"/>
+  <nd ref="27000060"/>
+  <nd ref="27000063"/>
+  <nd ref="27000064"/>
+  <nd ref="27000065"/>
+  <nd ref="451739679"/>
+  <nd ref="27000066"/>
+  <nd ref="325044441"/>
+  <nd ref="27000067"/>
+  <nd ref="27000068"/>
+  <nd ref="27000069"/>
+  <nd ref="904045553"/>
+  <nd ref="881174335"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="railway" v="rail"/>
+  <tag k="voltage" v="3000"/>
+ </way>
+ <way id="69732178" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:57Z">
+  <nd ref="834084146"/>
+  <nd ref="834084284"/>
+  <nd ref="834083667"/>
+  <nd ref="834083822"/>
+  <nd ref="834084146"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="78509714" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:28Z">
+  <nd ref="921301385"/>
+  <nd ref="921301378"/>
+  <nd ref="921301361"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Заводская"/>
+ </way>
+ <way id="75518540" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:55Z">
+  <nd ref="891732069"/>
+  <nd ref="891732011"/>
+  <nd ref="891732388"/>
+  <nd ref="891732321"/>
+  <nd ref="891732069"/>
+  <tag k="addr:housenumber" v="43а"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75518522" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:53Z">
+  <nd ref="891732132"/>
+  <nd ref="891732059"/>
+  <nd ref="891731994"/>
+  <nd ref="891732379"/>
+  <nd ref="891732132"/>
+  <tag k="amenity" v="kindergarten"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="дет сад"/>
+ </way>
+ <way id="79190570" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:47Z">
+  <nd ref="925228726"/>
+  <nd ref="925228830"/>
+  <nd ref="925228525"/>
+  <nd ref="925228561"/>
+  <nd ref="925228689"/>
+  <nd ref="925228730"/>
+  <nd ref="925228726"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518525" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:54Z">
+  <nd ref="891732358"/>
+  <nd ref="891732147"/>
+  <nd ref="891732231"/>
+  <nd ref="891732292"/>
+  <nd ref="891732358"/>
+  <tag k="addr:housenumber" v="10а"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="75518539" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:55Z">
+  <nd ref="891732185"/>
+  <nd ref="891732179"/>
+  <nd ref="891732240"/>
+  <nd ref="891732313"/>
+  <nd ref="891732185"/>
+  <tag k="addr:housenumber" v="12/32"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="79190510" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:37Z">
+  <nd ref="925228554"/>
+  <nd ref="925228925"/>
+  <nd ref="925228520"/>
+  <nd ref="925228646"/>
+  <nd ref="925228684"/>
+  <nd ref="925228826"/>
+  <nd ref="925228860"/>
+  <nd ref="925228557"/>
+  <nd ref="925228554"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732184" user="klinosm" uid="315638" visible="true" version="1" changeset="5322004" timestamp="2010-07-26T15:42:15Z">
+  <nd ref="834084238"/>
+  <nd ref="834084252"/>
+  <nd ref="834083754"/>
+  <nd ref="834083607"/>
+  <nd ref="834084238"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="28642373" user="alexinc" uid="290619" visible="true" version="7" changeset="5707877" timestamp="2010-09-07T13:24:13Z">
+  <nd ref="76391239"/>
+  <nd ref="314817999"/>
+  <tag k="addr:street" v="Дзержинского ул."/>
+  <tag k="cladr:code" v="50011001000002300"/>
+  <tag k="cladr:name" v="Дзержинского"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Дзержинского ул."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="75518538" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:55Z">
+  <nd ref="891732347"/>
+  <nd ref="891732282"/>
+  <nd ref="891732209"/>
+  <nd ref="891732139"/>
+  <nd ref="891732347"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69565443" user="klinosm" uid="315638" visible="true" version="1" changeset="5311112" timestamp="2010-07-25T11:46:35Z">
+  <nd ref="832572391"/>
+  <nd ref="832572355"/>
+  <nd ref="832572377"/>
+  <nd ref="832572393"/>
+  <nd ref="832572365"/>
+  <nd ref="832572385"/>
+  <nd ref="832572352"/>
+  <nd ref="832572373"/>
+  <nd ref="832572391"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732183" user="klinosm" uid="315638" visible="true" version="3" changeset="5652716" timestamp="2010-09-01T10:23:37Z">
+  <nd ref="834083652"/>
+  <nd ref="834083504"/>
+  <nd ref="834084281"/>
+  <nd ref="834083796"/>
+  <nd ref="834083652"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="76256532" user="alexinc" uid="290619" visible="true" version="2" changeset="5707877" timestamp="2010-09-07T13:24:15Z">
+  <nd ref="899545416"/>
+  <nd ref="899545408"/>
+  <nd ref="899545418"/>
+  <nd ref="899545413"/>
+  <nd ref="899545406"/>
+  <nd ref="899545429"/>
+  <nd ref="899545416"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:street" v="Дзержинского ул."/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518496" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:51Z">
+  <nd ref="891731953"/>
+  <nd ref="891732086"/>
+  <nd ref="891731949"/>
+  <nd ref="891732264"/>
+  <nd ref="891732112"/>
+  <nd ref="891732235"/>
+  <nd ref="891731953"/>
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="69732158" user="alexinc" uid="290619" visible="true" version="3" changeset="5707877" timestamp="2010-09-07T13:24:14Z">
+  <nd ref="834083531"/>
+  <nd ref="834083603"/>
+  <nd ref="834084355"/>
+  <nd ref="834083670"/>
+  <nd ref="834083531"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:street" v="Новая ул."/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518488" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:50Z">
+  <nd ref="891732117"/>
+  <nd ref="891732366"/>
+  <nd ref="891731992"/>
+  <nd ref="891732056"/>
+  <nd ref="891732117"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Авто-звук 1"/>
+  <tag k="shop" v="car"/>
+ </way>
+ <way id="75518515" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:53Z">
+  <nd ref="891732137"/>
+  <nd ref="891732067"/>
+  <nd ref="891731998"/>
+  <nd ref="891732129"/>
+  <nd ref="891732137"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Авто-звук 2"/>
+  <tag k="shop" v="car"/>
+ </way>
+ <way id="75512078" user="klinosm" uid="315638" visible="true" version="1" changeset="5652716" timestamp="2010-09-01T10:23:30Z">
+  <nd ref="891605225"/>
+  <nd ref="891605209"/>
+  <nd ref="891605186"/>
+  <nd ref="891605168"/>
+  <nd ref="891605225"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="35784599" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:19Z">
+  <nd ref="418410521"/>
+  <nd ref="418410533"/>
+  <nd ref="418410527"/>
+  <nd ref="418410525"/>
+  <nd ref="418410521"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="69732186" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:28:00Z">
+  <nd ref="834083958"/>
+  <nd ref="834083768"/>
+  <nd ref="834083881"/>
+  <nd ref="834084379"/>
+  <nd ref="834083958"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:street" v="ул. Менделеева"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="69732156" user="alexinc" uid="290619" visible="true" version="3" changeset="5707877" timestamp="2010-09-07T13:24:08Z">
+  <nd ref="834084012"/>
+  <nd ref="834083870"/>
+  <nd ref="834083742"/>
+  <nd ref="834084149"/>
+  <nd ref="834084012"/>
+  <tag k="addr:housenumber" v="4а"/>
+  <tag k="addr:street" v="Крюкова ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75518480" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:50Z">
+  <nd ref="891732323"/>
+  <nd ref="891732318"/>
+  <nd ref="891732384"/>
+  <nd ref="891732007"/>
+  <nd ref="891732323"/>
+  <tag k="addr:housenumber" v="61/11"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="78509721" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:29Z">
+  <nd ref="921301355"/>
+  <nd ref="921301401"/>
+  <nd ref="921301288"/>
+  <nd ref="921301368"/>
+  <nd ref="921301340"/>
+  <nd ref="921301384"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Крупской"/>
+ </way>
+ <way id="69565447" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:59Z">
+  <nd ref="832572353"/>
+  <nd ref="832572389"/>
+  <nd ref="832572375"/>
+  <nd ref="832572370"/>
+  <nd ref="832572353"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="37044751" user="klinosm" uid="315638" visible="true" version="3" changeset="5652716" timestamp="2010-09-01T10:23:33Z">
+  <nd ref="430834318"/>
+  <nd ref="430834319"/>
+  <nd ref="430834320"/>
+  <nd ref="430834321"/>
+  <nd ref="430834323"/>
+  <nd ref="430834324"/>
+  <nd ref="430834325"/>
+  <nd ref="430834326"/>
+  <nd ref="430834318"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="amenity" v="school"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="№10"/>
+ </way>
+ <way id="35784581" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:28Z">
+  <nd ref="418410248"/>
+  <nd ref="418410253"/>
+  <nd ref="418410251"/>
+  <nd ref="418410249"/>
+  <nd ref="418410248"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75512081" user="alexinc" uid="290619" visible="true" version="2" changeset="5707877" timestamp="2010-09-07T13:26:09Z">
+  <nd ref="891605229"/>
+  <nd ref="891605228"/>
+  <nd ref="891605192"/>
+  <nd ref="891605217"/>
+  <nd ref="891605229"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:street" v="Менделеева ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="28642374" user="alexinc" uid="290619" visible="true" version="6" changeset="5568424" timestamp="2010-08-23T07:22:24Z">
+  <nd ref="314817999"/>
+  <nd ref="314818000"/>
+  <nd ref="418378752"/>
+  <tag k="addr:postcode" v="141606"/>
+  <tag k="addr:street" v="Новая ул."/>
+  <tag k="cladr:code" v="50011001000008800"/>
+  <tag k="cladr:name" v="Новая"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Новая ул."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="69565442" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:28:00Z">
+  <nd ref="832572374"/>
+  <nd ref="832572379"/>
+  <nd ref="832572392"/>
+  <nd ref="832572398"/>
+  <nd ref="832572374"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732157" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:58Z">
+  <nd ref="834083684"/>
+  <nd ref="834084259"/>
+  <nd ref="834084097"/>
+  <nd ref="834083830"/>
+  <nd ref="834083684"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="69732159" user="klinosm" uid="315638" visible="true" version="3" changeset="5652716" timestamp="2010-09-01T10:23:35Z">
+  <nd ref="834083794"/>
+  <nd ref="834083801"/>
+  <nd ref="834084214"/>
+  <nd ref="834084074"/>
+  <nd ref="834083794"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="76202584" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:59Z">
+  <nd ref="899058505"/>
+  <nd ref="899058611"/>
+  <nd ref="899058632"/>
+  <nd ref="899058544"/>
+  <nd ref="899058505"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:street" v="Волоколамское шоссе"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="37044755" user="alexinc" uid="290619" visible="true" version="6" changeset="5843420" timestamp="2010-09-22T08:25:58Z">
+  <nd ref="370935652"/>
+  <nd ref="314818000"/>
+  <tag k="addr:postcode" v="141606"/>
+  <tag k="cladr:code" v="50011001000008800"/>
+  <tag k="cladr:name" v="Новая"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Новая ул."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="69732152" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:26Z">
+  <nd ref="834084340"/>
+  <nd ref="834084187"/>
+  <nd ref="834084067"/>
+  <nd ref="834083926"/>
+  <nd ref="834084340"/>
+  <tag k="addr:housenumber" v="26а"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="69565444" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:56Z">
+  <nd ref="832572360"/>
+  <nd ref="832572387"/>
+  <nd ref="832572382"/>
+  <nd ref="832572367"/>
+  <nd ref="832572360"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="37044758" user="klinosm" uid="315638" visible="true" version="3" changeset="5702402" timestamp="2010-09-06T20:28:42Z">
+  <nd ref="430834358"/>
+  <nd ref="430834360"/>
+  <nd ref="430834362"/>
+  <nd ref="430834369"/>
+  <nd ref="430834358"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="клуб"/>
+ </way>
+ <way id="69732174" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:56Z">
+  <nd ref="834083543"/>
+  <nd ref="834083952"/>
+  <nd ref="834084168"/>
+  <nd ref="834084042"/>
+  <nd ref="834083543"/>
+  <tag k="addr:housenumber" v="49/12"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="75518520" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:53Z">
+  <nd ref="891732164"/>
+  <nd ref="891732216"/>
+  <nd ref="891732288"/>
+  <nd ref="891732096"/>
+  <nd ref="891732164"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="37044756" user="alexinc" uid="290619" visible="true" version="4" changeset="5707877" timestamp="2010-09-07T13:24:07Z">
+  <nd ref="430834341"/>
+  <nd ref="430834342"/>
+  <nd ref="430834347"/>
+  <nd ref="430834349"/>
+  <nd ref="430834341"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:street" v="Новая ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="35784167" user="klinosm" uid="315638" visible="true" version="6" changeset="5845869" timestamp="2010-09-22T14:07:34Z">
+  <nd ref="418399243"/>
+  <nd ref="921301361"/>
+  <nd ref="76391239"/>
+  <tag k="cladr:code" v="50011001000002300"/>
+  <tag k="cladr:name" v="Дзержинского"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Дзержинского ул."/>
+ </way>
+ <way id="76202575" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:55Z">
+  <nd ref="899058630"/>
+  <nd ref="899058609"/>
+  <nd ref="899058585"/>
+  <nd ref="899058487"/>
+  <nd ref="899058630"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:street" v="ул. Октябрьская Б."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="76256533" user="alexinc" uid="290619" visible="true" version="2" changeset="5707877" timestamp="2010-09-07T13:24:14Z">
+  <nd ref="899545411"/>
+  <nd ref="899545414"/>
+  <nd ref="899545396"/>
+  <nd ref="899545410"/>
+  <nd ref="899545411"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:street" v="Дзержинского ул."/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75518493" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:51Z">
+  <nd ref="891732159"/>
+  <nd ref="891732092"/>
+  <nd ref="891732028"/>
+  <nd ref="891731968"/>
+  <nd ref="891732159"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="37044736" user="klinosm" uid="315638" visible="true" version="3" changeset="5652716" timestamp="2010-09-01T10:23:34Z">
+  <nd ref="430834228"/>
+  <nd ref="430834229"/>
+  <nd ref="430834230"/>
+  <nd ref="430834231"/>
+  <nd ref="430834234"/>
+  <nd ref="430834235"/>
+  <nd ref="430834236"/>
+  <nd ref="430834237"/>
+  <nd ref="430834228"/>
+  <tag k="addr:housenumber" v="37/1"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="69732173" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:44Z">
+  <nd ref="834084354"/>
+  <nd ref="834083752"/>
+  <nd ref="834084368"/>
+  <nd ref="834084302"/>
+  <nd ref="834084019"/>
+  <nd ref="834083540"/>
+  <nd ref="834084165"/>
+  <nd ref="834084091"/>
+  <nd ref="834084354"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="28431011" user="klinosm" uid="315638" visible="true" version="14" changeset="5845869" timestamp="2010-09-22T14:07:35Z">
+  <nd ref="312375917"/>
+  <nd ref="502068334"/>
+  <nd ref="919489486"/>
+  <nd ref="312375317"/>
+  <nd ref="919489482"/>
+  <nd ref="921301385"/>
+  <nd ref="312375605"/>
+  <nd ref="312375606"/>
+  <nd ref="312375607"/>
+  <nd ref="736822489"/>
+  <nd ref="418399243"/>
+  <nd ref="710127556"/>
+  <nd ref="312377456"/>
+  <nd ref="247985283"/>
+  <nd ref="312375919"/>
+  <tag k="cladr:code" v="50011001000007200"/>
+  <tag k="cladr:name" v="Карла Маркса"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Карла Маркса"/>
+ </way>
+ <way id="75518531" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:54Z">
+  <nd ref="891732154"/>
+  <nd ref="891732076"/>
+  <nd ref="891732018"/>
+  <nd ref="891731948"/>
+  <nd ref="891732154"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="76735484" user="wowik" uid="115477" visible="true" version="1" changeset="5732576" timestamp="2010-09-09T13:45:37Z">
+  <nd ref="881174335"/>
+  <nd ref="314532815"/>
+  <nd ref="27000073"/>
+  <nd ref="27000074"/>
+  <nd ref="27000075"/>
+  <nd ref="258325574"/>
+  <nd ref="27000076"/>
+  <nd ref="27000077"/>
+  <nd ref="27000078"/>
+  <nd ref="27000079"/>
+  <nd ref="27000080"/>
+  <nd ref="27000081"/>
+  <nd ref="710135985"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Октябрьская железная дорога"/>
+  <tag k="railway" v="rail"/>
+  <tag k="voltage" v="3000"/>
+ </way>
+ <way id="54256096" user="klinosm" uid="315638" visible="true" version="3" changeset="5845869" timestamp="2010-09-22T14:07:49Z">
+  <nd ref="684285681"/>
+  <nd ref="921301337"/>
+  <nd ref="921301336"/>
+  <nd ref="881174476"/>
+  <nd ref="684285688"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Транспортная"/>
+ </way>
+ <way id="37044757" user="alexinc" uid="290619" visible="true" version="4" changeset="5707877" timestamp="2010-09-07T13:24:08Z">
+  <nd ref="430834351"/>
+  <nd ref="430834352"/>
+  <nd ref="430834354"/>
+  <nd ref="430834356"/>
+  <nd ref="430834351"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:street" v="Гагарина ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="76202578" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:40:57Z">
+  <nd ref="899058591"/>
+  <nd ref="899058617"/>
+  <nd ref="899058564"/>
+  <nd ref="899058501"/>
+  <nd ref="899058627"/>
+  <nd ref="899058579"/>
+  <nd ref="899058618"/>
+  <nd ref="899058567"/>
+  <nd ref="899058591"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:street" v="ул. Октябрьская Б."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="69732144" user="alexinc" uid="290619" visible="true" version="3" changeset="5707877" timestamp="2010-09-07T13:26:09Z">
+  <nd ref="834084221"/>
+  <nd ref="834083729"/>
+  <nd ref="834084143"/>
+  <nd ref="834083988"/>
+  <nd ref="834084221"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:street" v="Менделеева ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="75518489" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:50Z">
+  <nd ref="891732034"/>
+  <nd ref="891732357"/>
+  <nd ref="891732354"/>
+  <nd ref="891731977"/>
+  <nd ref="891732034"/>
+  <tag k="addr:housenumber" v="41/65"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="79190497" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:35Z">
+  <nd ref="925228575"/>
+  <nd ref="925228664"/>
+  <nd ref="925228806"/>
+  <nd ref="925228848"/>
+  <nd ref="925228541"/>
+  <nd ref="925228578"/>
+  <nd ref="925228711"/>
+  <nd ref="925228877"/>
+  <nd ref="925228573"/>
+  <nd ref="925228605"/>
+  <nd ref="925228575"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="32940372" user="alexinc" uid="290619" visible="true" version="6" changeset="5843420" timestamp="2010-09-22T08:25:59Z">
+  <nd ref="370935654"/>
+  <nd ref="370935652"/>
+  <tag k="addr:street" v="Мира ул."/>
+  <tag k="cladr:code" v="50011001000007600"/>
+  <tag k="cladr:name" v="Мира"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Мира ул."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="67508522" user="alexinc" uid="290619" visible="true" version="2" changeset="5687963" timestamp="2010-09-05T14:16:30Z">
+  <nd ref="814975410"/>
+  <nd ref="814975359"/>
+  <nd ref="814975455"/>
+  <nd ref="814975381"/>
+  <nd ref="814975508"/>
+  <nd ref="814975427"/>
+  <nd ref="814975363"/>
+  <nd ref="814975501"/>
+  <nd ref="814975410"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="ТД Петровский"/>
+  <tag k="shop" v="supermarket"/>
+ </way>
+ <way id="75518507" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732019"/>
+  <nd ref="891731967"/>
+  <nd ref="891732341"/>
+  <nd ref="891732272"/>
+  <nd ref="891732019"/>
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="69732165" user="klinosm" uid="315638" visible="true" version="2" changeset="5652716" timestamp="2010-09-01T10:23:32Z">
+  <nd ref="834083721"/>
+  <nd ref="834084131"/>
+  <nd ref="834083644"/>
+  <nd ref="834083487"/>
+  <nd ref="834083721"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="35784597" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:46Z">
+  <nd ref="418410497"/>
+  <nd ref="418410500"/>
+  <nd ref="418410503"/>
+  <nd ref="418410505"/>
+  <nd ref="418410497"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:street" v="ул. Гагарина"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="75518514" user="alexinc" uid="290619" visible="true" version="2" changeset="5707877" timestamp="2010-09-07T13:26:08Z">
+  <nd ref="891732382"/>
+  <nd ref="891732183"/>
+  <nd ref="891732243"/>
+  <nd ref="891732316"/>
+  <nd ref="891732382"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:street" v="Менделеева ул."/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="78315091" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:34Z">
+  <nd ref="919489483"/>
+  <nd ref="919489498"/>
+  <nd ref="919489499"/>
+  <nd ref="921301393"/>
+  <nd ref="919489487"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="name" v="Литейная улица"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="А108"/>
+ </way>
+ <way id="35784600" user="klinosm" uid="315638" visible="true" version="2" changeset="5648060" timestamp="2010-08-31T18:47:45Z">
+  <nd ref="418410537"/>
+  <nd ref="418410550"/>
+  <nd ref="418410544"/>
+  <nd ref="418410541"/>
+  <nd ref="418410537"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:street" v="ул. Мира"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="56299945" user="alexinc" uid="290619" visible="true" version="6" changeset="5843420" timestamp="2010-09-22T08:25:58Z">
+  <nd ref="76381220"/>
+  <nd ref="902635446"/>
+  <nd ref="76381131"/>
+  <nd ref="76381130"/>
+  <nd ref="825411191"/>
+  <nd ref="362385202"/>
+  <nd ref="76391239"/>
+  <nd ref="76391238"/>
+  <nd ref="418399249"/>
+  <nd ref="312375317"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Литейная ул."/>
+  <tag k="ref" v="А108"/>
+ </way>
+ <way id="75518482" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:50Z">
+  <nd ref="891732291"/>
+  <nd ref="891732218"/>
+  <nd ref="891732141"/>
+  <nd ref="891732072"/>
+  <nd ref="891732291"/>
+  <tag k="access" v="10/46"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="банк"/>
+ </way>
+ <way id="78315090" user="klinosm" uid="315638" visible="true" version="2" changeset="5845869" timestamp="2010-09-22T14:07:49Z">
+  <nd ref="919489488"/>
+  <nd ref="921301419"/>
+  <nd ref="919489496"/>
+  <nd ref="919489497"/>
+  <nd ref="919489485"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="name" v="Литейная улица"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="А108"/>
+ </way>
+ <way id="57902206" user="Frantony" uid="83097" visible="true" version="1" changeset="4593583" timestamp="2010-05-03T10:46:11Z">
+  <nd ref="718562658"/>
+  <nd ref="718562663"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="1"/>
+ </way>
+ <way id="75518504" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732050"/>
+  <nd ref="891732038"/>
+  <nd ref="891732100"/>
+  <nd ref="891731981"/>
+  <nd ref="891732050"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:street" v="Железнодорожный проезд"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+ </way>
+ <way id="78509715" user="klinosm" uid="315638" visible="true" version="1" changeset="5845869" timestamp="2010-09-22T14:07:28Z">
+  <nd ref="921301393"/>
+  <nd ref="921301374"/>
+  <nd ref="921301276"/>
+  <nd ref="921301413"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="ул. Октябрьская"/>
+ </way>
+ <way id="78315083" user="Wiseman" uid="215339" visible="true" version="1" changeset="5827747" timestamp="2010-09-20T10:14:08Z">
+  <nd ref="919489482"/>
+  <nd ref="919489483"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="name" v="Литейная улица"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="А108"/>
+ </way>
+ <way id="69732147" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:57Z">
+  <nd ref="834083895"/>
+  <nd ref="834083779"/>
+  <nd ref="834083626"/>
+  <nd ref="834084046"/>
+  <nd ref="834083895"/>
+  <tag k="addr:housenumber" v="59/10"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="75518500" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:51Z">
+  <nd ref="891732074"/>
+  <nd ref="891732335"/>
+  <nd ref="891731946"/>
+  <nd ref="891732017"/>
+  <nd ref="891732074"/>
+  <tag k="addr:housenumber" v="10б"/>
+  <tag k="addr:street" v="ул. Карла Маркса"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+ </way>
+ <way id="32940368" user="alexinc" uid="290619" visible="true" version="6" changeset="5707877" timestamp="2010-09-07T13:24:07Z">
+  <nd ref="370935646"/>
+  <nd ref="314817999"/>
+  <tag k="addr:street" v="Дзержинского ул."/>
+  <tag k="cladr:code" v="50011001000002300"/>
+  <tag k="cladr:name" v="Дзержинского"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Дзержинского ул."/>
+ </way>
+ <way id="31054859" user="klinosm" uid="315638" visible="true" version="10" changeset="5845869" timestamp="2010-09-22T14:07:41Z">
+  <nd ref="921301292"/>
+  <nd ref="345212881"/>
+  <nd ref="345212882"/>
+  <nd ref="345212883"/>
+  <nd ref="345212884"/>
+  <nd ref="921301311"/>
+  <nd ref="345212885"/>
+  <nd ref="345212886"/>
+  <nd ref="345212887"/>
+  <nd ref="345212888"/>
+  <nd ref="418410611"/>
+  <nd ref="345212889"/>
+  <nd ref="418399475"/>
+  <nd ref="345212890"/>
+  <nd ref="314818016"/>
+  <nd ref="345212894"/>
+  <tag k="addr:street" v="Мира ул."/>
+  <tag k="cladr:code" v="50011001000007600"/>
+  <tag k="cladr:name" v="Мира"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Мира ул."/>
+ </way>
+ <way id="75518511" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732033"/>
+  <nd ref="891732285"/>
+  <nd ref="891732351"/>
+  <nd ref="891731976"/>
+  <nd ref="891732033"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732185" user="alexinc" uid="290619" visible="true" version="3" changeset="5707877" timestamp="2010-09-07T13:24:14Z">
+  <nd ref="834083803"/>
+  <nd ref="834083823"/>
+  <nd ref="834083511"/>
+  <nd ref="834084294"/>
+  <nd ref="834083803"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:street" v="Дзержинского ул."/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="68675207" user="alexinc" uid="290619" visible="true" version="7" changeset="5707877" timestamp="2010-09-07T13:24:08Z">
+  <nd ref="825411192"/>
+  <nd ref="825411191"/>
+  <tag k="addr:street" v="Крюкова ул."/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Крюкова ул."/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="35153250" user="alexinc" uid="290619" visible="true" version="5" changeset="5707877" timestamp="2010-09-07T13:20:45Z">
+  <nd ref="412338245"/>
+  <nd ref="345212894"/>
+  <nd ref="370935652"/>
+  <nd ref="370935653"/>
+  <nd ref="418378752"/>
+  <nd ref="418378747"/>
+  <nd ref="418378749"/>
+  <nd ref="418378750"/>
+  <nd ref="418378751"/>
+  <nd ref="314818006"/>
+  <tag k="addr:street" v="Гагарина ул."/>
+  <tag k="cladr:code" v="50011001000001500"/>
+  <tag k="cladr:name" v="Гагарина"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Гагарина ул."/>
+ </way>
+ <way id="35784168" user="klinosm" uid="315638" visible="true" version="5" changeset="5845869" timestamp="2010-09-22T14:07:36Z">
+  <nd ref="418399246"/>
+  <nd ref="418399252"/>
+  <nd ref="418399249"/>
+  <nd ref="921301378"/>
+  <tag k="addr:postcode" v="141607"/>
+  <tag k="cladr:code" v="50011001000007400"/>
+  <tag k="cladr:name" v="Менделеева"/>
+  <tag k="cladr:suffix" v="Улица"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Менделеева ул."/>
+ </way>
+ <way id="76202602" user="klinosm" uid="315638" visible="true" version="1" changeset="5697620" timestamp="2010-09-06T12:41:08Z">
+  <nd ref="899058496"/>
+  <nd ref="899058480"/>
+  <nd ref="899058621"/>
+  <nd ref="899058520"/>
+  <nd ref="899058496"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:street" v="Волоколамское шоссе"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="78315085" user="Wiseman" uid="215339" visible="true" version="1" changeset="5827747" timestamp="2010-09-20T10:14:08Z">
+  <nd ref="919489485"/>
+  <nd ref="919489486"/>
+  <tag k="highway" v="trunk"/>
+  <tag k="name" v="Литейная улица"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="А108"/>
+ </way>
+ <way id="69732188" user="klinosm" uid="315638" visible="true" version="2" changeset="5652716" timestamp="2010-09-01T10:23:34Z">
+  <nd ref="834083985"/>
+  <nd ref="834084139"/>
+  <nd ref="834083922"/>
+  <nd ref="834084065"/>
+  <nd ref="834083985"/>
+  <tag k="addr:housenumber" v="3/5"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="5"/>
+ </way>
+ <way id="79190530" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:41Z">
+  <nd ref="925228776"/>
+  <nd ref="925228709"/>
+  <nd ref="925228847"/>
+  <nd ref="925228883"/>
+  <nd ref="925228776"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69732172" user="klinosm" uid="315638" visible="true" version="2" changeset="5653174" timestamp="2010-09-01T11:27:59Z">
+  <nd ref="834083724"/>
+  <nd ref="834083581"/>
+  <nd ref="834084347"/>
+  <nd ref="834083858"/>
+  <nd ref="834083724"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:street" v="ул. Дзержинского"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="9"/>
+ </way>
+ <way id="75518530" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:54Z">
+  <nd ref="891731963"/>
+  <nd ref="891732339"/>
+  <nd ref="891732192"/>
+  <nd ref="891732268"/>
+  <nd ref="891732113"/>
+  <nd ref="891731986"/>
+  <nd ref="891731963"/>
+  <tag k="addr:housenumber" v="50/10"/>
+  <tag k="addr:street" v="ул. Литейная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="74566314" user="Stud555" uid="313900" visible="true" version="1" changeset="5602075" timestamp="2010-08-26T19:44:09Z">
+  <nd ref="881174335"/>
+  <nd ref="881174423"/>
+  <nd ref="881174436"/>
+  <nd ref="881174402"/>
+  <nd ref="881174428"/>
+  <nd ref="881174368"/>
+  <nd ref="881174390"/>
+  <nd ref="881174382"/>
+  <nd ref="881174394"/>
+  <nd ref="881174464"/>
+  <nd ref="881174348"/>
+  <tag k="electrified" v="no"/>
+  <tag k="railway" v="rail"/>
+  <tag k="service" v="spur"/>
+ </way>
+ <way id="79190555" user="klinosm" uid="315638" visible="true" version="1" changeset="5869573" timestamp="2010-09-25T10:34:45Z">
+  <nd ref="925228567"/>
+  <nd ref="925228764"/>
+  <nd ref="925228801"/>
+  <nd ref="925228940"/>
+  <nd ref="925228567"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="35784598" user="klinosm" uid="315638" visible="true" version="3" changeset="5652716" timestamp="2010-09-01T10:23:33Z">
+  <nd ref="418410508"/>
+  <nd ref="418410511"/>
+  <nd ref="418410514"/>
+  <nd ref="418410518"/>
+  <nd ref="418410508"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:street" v="ул. Мира"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+ <way id="75518503" user="klinosm" uid="315638" visible="true" version="1" changeset="5653174" timestamp="2010-09-01T11:27:52Z">
+  <nd ref="891732261"/>
+  <nd ref="891732189"/>
+  <nd ref="891732362"/>
+  <nd ref="891732299"/>
+  <nd ref="891732261"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="75454766" user="klinosm" uid="315638" visible="true" version="2" changeset="5652716" timestamp="2010-09-01T10:23:34Z">
+  <nd ref="890854199"/>
+  <nd ref="890854219"/>
+  <nd ref="890854232"/>
+  <nd ref="890854181"/>
+  <nd ref="890854199"/>
+  <tag k="addr:housenumber" v="9/34"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="69565441" user="alexinc" uid="290619" visible="true" version="2" changeset="5687963" timestamp="2010-09-05T14:14:58Z">
+  <nd ref="832572350"/>
+  <nd ref="832572369"/>
+  <nd ref="832572388"/>
+  <nd ref="832572357"/>
+  <nd ref="832572378"/>
+  <nd ref="832572394"/>
+  <nd ref="832572366"/>
+  <nd ref="832572386"/>
+  <nd ref="832572350"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="ТД Дарья"/>
+  <tag k="shop" v="supermarket"/>
+ </way>
+ <relation id="581172" user="physiocrat" uid="70202" visible="true" version="1" changeset="4518381" timestamp="2010-04-25T07:57:58Z">
+  <member type="way" ref="35153250" role="from"/>
+  <member type="way" ref="35153250" role="to"/>
+  <member type="node" ref="314818006" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="579343" user="physiocrat" uid="70202" visible="true" version="1" changeset="4518381" timestamp="2010-04-25T07:54:10Z">
+  <member type="way" ref="32940368" role="from"/>
+  <member type="way" ref="32940368" role="to"/>
+  <member type="node" ref="370935646" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="96213" user="Sergey1956" uid="350033" visible="true" version="91" changeset="5845162" timestamp="2010-09-22T13:18:47Z">
+  <member type="way" ref="5202427" role=""/>
+  <member type="way" ref="45407314" role=""/>
+  <member type="way" ref="59214690" role=""/>
+  <member type="way" ref="59214639" role=""/>
+  <member type="way" ref="62106394" role=""/>
+  <member type="way" ref="62106393" role=""/>
+  <member type="way" ref="50447444" role=""/>
+  <member type="way" ref="5911204" role=""/>
+  <member type="way" ref="53723932" role=""/>
+  <member type="way" ref="53723928" role=""/>
+  <member type="way" ref="57934131" role=""/>
+  <member type="way" ref="38355615" role=""/>
+  <member type="way" ref="56199939" role=""/>
+  <member type="way" ref="9698814" role=""/>
+  <member type="way" ref="10254583" role=""/>
+  <member type="way" ref="10630742" role=""/>
+  <member type="way" ref="20272235" role=""/>
+  <member type="way" ref="46578429" role=""/>
+  <member type="way" ref="46578428" role=""/>
+  <member type="way" ref="20272724" role=""/>
+  <member type="way" ref="35126799" role=""/>
+  <member type="way" ref="35278257" role=""/>
+  <member type="way" ref="35153246" role=""/>
+  <member type="way" ref="56299945" role=""/>
+  <member type="way" ref="23409170" role=""/>
+  <member type="way" ref="23409174" role=""/>
+  <member type="way" ref="23601862" role=""/>
+  <member type="way" ref="23601863" role=""/>
+  <member type="way" ref="24203793" role=""/>
+  <member type="way" ref="25564129" role=""/>
+  <member type="way" ref="27485999" role=""/>
+  <member type="way" ref="27608730" role=""/>
+  <member type="way" ref="27608732" role=""/>
+  <member type="way" ref="56057096" role=""/>
+  <member type="way" ref="56057101" role=""/>
+  <member type="way" ref="56057102" role=""/>
+  <member type="way" ref="56057043" role=""/>
+  <member type="way" ref="51782114" role=""/>
+  <member type="way" ref="28142310" role=""/>
+  <member type="way" ref="28142311" role=""/>
+  <member type="way" ref="28430715" role=""/>
+  <member type="way" ref="28430719" role=""/>
+  <member type="way" ref="31768359" role=""/>
+  <member type="way" ref="31768360" role=""/>
+  <member type="way" ref="31768361" role=""/>
+  <member type="way" ref="31768362" role=""/>
+  <member type="way" ref="31768363" role=""/>
+  <member type="way" ref="31785621" role=""/>
+  <member type="way" ref="31785623" role=""/>
+  <member type="way" ref="32062373" role=""/>
+  <member type="way" ref="32062374" role=""/>
+  <member type="way" ref="32257749" role=""/>
+  <member type="way" ref="32257752" role=""/>
+  <member type="way" ref="32257753" role=""/>
+  <member type="way" ref="32257754" role=""/>
+  <member type="way" ref="32257755" role=""/>
+  <member type="way" ref="32257756" role=""/>
+  <member type="way" ref="32257893" role=""/>
+  <member type="way" ref="32257894" role=""/>
+  <member type="way" ref="32257895" role=""/>
+  <member type="way" ref="32257896" role=""/>
+  <member type="way" ref="32258018" role=""/>
+  <member type="way" ref="32258020" role=""/>
+  <member type="way" ref="60760394" role=""/>
+  <member type="way" ref="60760395" role=""/>
+  <member type="way" ref="74340021" role=""/>
+  <member type="way" ref="74340018" role=""/>
+  <member type="way" ref="60760396" role=""/>
+  <member type="way" ref="60760392" role=""/>
+  <member type="way" ref="32261576" role=""/>
+  <member type="way" ref="32261578" role=""/>
+  <member type="way" ref="32261983" role=""/>
+  <member type="way" ref="32261984" role=""/>
+  <member type="way" ref="39881261" role=""/>
+  <member type="way" ref="32263171" role=""/>
+  <member type="way" ref="32263175" role=""/>
+  <member type="way" ref="32263177" role=""/>
+  <member type="way" ref="32263179" role=""/>
+  <member type="way" ref="32263188" role=""/>
+  <member type="way" ref="32263191" role=""/>
+  <member type="way" ref="32263688" role=""/>
+  <member type="way" ref="62610053" role=""/>
+  <member type="way" ref="32263876" role=""/>
+  <member type="way" ref="34286597" role=""/>
+  <member type="way" ref="34286598" role=""/>
+  <member type="way" ref="35126797" role=""/>
+  <member type="way" ref="45392380" role=""/>
+  <member type="way" ref="20489981" role=""/>
+  <member type="way" ref="35278256" role=""/>
+  <member type="way" ref="38180800" role=""/>
+  <member type="way" ref="46483393" role=""/>
+  <member type="way" ref="46483392" role=""/>
+  <member type="way" ref="46483391" role=""/>
+  <member type="way" ref="38180801" role=""/>
+  <member type="way" ref="57976899" role=""/>
+  <member type="way" ref="38300768" role=""/>
+  <member type="way" ref="55530823" role=""/>
+  <member type="way" ref="38300770" role=""/>
+  <member type="way" ref="38479347" role=""/>
+  <member type="way" ref="38479349" role=""/>
+  <member type="way" ref="38750315" role=""/>
+  <member type="way" ref="38756074" role=""/>
+  <member type="way" ref="38756077" role=""/>
+  <member type="way" ref="38756182" role=""/>
+  <member type="way" ref="51782112" role=""/>
+  <member type="way" ref="51782113" role=""/>
+  <member type="way" ref="42203077" role=""/>
+  <member type="way" ref="51782111" role=""/>
+  <member type="way" ref="51781842" role=""/>
+  <member type="way" ref="51781843" role=""/>
+  <member type="way" ref="38822244" role=""/>
+  <member type="way" ref="51781841" role=""/>
+  <member type="way" ref="52349954" role=""/>
+  <member type="way" ref="40121129" role=""/>
+  <member type="way" ref="37332704" role=""/>
+  <member type="way" ref="46482404" role=""/>
+  <member type="way" ref="24203794" role=""/>
+  <member type="way" ref="39824865" role=""/>
+  <member type="way" ref="45255051" role=""/>
+  <member type="way" ref="39824866" role=""/>
+  <member type="way" ref="39824866" role=""/>
+  <member type="way" ref="39881259" role=""/>
+  <member type="way" ref="39881264" role=""/>
+  <member type="way" ref="39881265" role=""/>
+  <member type="way" ref="32262308" role=""/>
+  <member type="way" ref="39881263" role=""/>
+  <member type="way" ref="40898141" role=""/>
+  <member type="way" ref="30826736" role=""/>
+  <member type="way" ref="30826504" role=""/>
+  <member type="way" ref="35277582" role=""/>
+  <member type="way" ref="26852276" role=""/>
+  <member type="way" ref="26852422" role=""/>
+  <member type="way" ref="35277584" role=""/>
+  <member type="way" ref="27544476" role=""/>
+  <member type="way" ref="35277593" role=""/>
+  <member type="way" ref="28065072" role=""/>
+  <member type="way" ref="27544469" role=""/>
+  <member type="way" ref="28065071" role=""/>
+  <member type="way" ref="23566331" role=""/>
+  <member type="way" ref="28065067" role=""/>
+  <member type="way" ref="28065068" role=""/>
+  <member type="way" ref="28064693" role=""/>
+  <member type="way" ref="28064694" role=""/>
+  <member type="way" ref="26852620" role=""/>
+  <member type="way" ref="35277580" role=""/>
+  <member type="way" ref="35277579" role=""/>
+  <member type="way" ref="27244590" role=""/>
+  <member type="way" ref="45780796" role=""/>
+  <member type="way" ref="45780797" role=""/>
+  <member type="way" ref="45780798" role=""/>
+  <member type="way" ref="45780795" role=""/>
+  <member type="way" ref="45780791" role=""/>
+  <member type="way" ref="45942233" role=""/>
+  <member type="way" ref="45942219" role=""/>
+  <member type="way" ref="47396863" role=""/>
+  <member type="way" ref="35277585" role=""/>
+  <member type="way" ref="35277583" role=""/>
+  <member type="way" ref="35277591" role=""/>
+  <member type="way" ref="35277592" role=""/>
+  <member type="way" ref="35277589" role=""/>
+  <member type="way" ref="35277577" role=""/>
+  <member type="way" ref="33764980" role=""/>
+  <member type="way" ref="53723933" role=""/>
+  <member type="way" ref="55001379" role=""/>
+  <member type="way" ref="55001380" role=""/>
+  <member type="way" ref="57378524" role=""/>
+  <member type="way" ref="61294212" role=""/>
+  <member type="way" ref="61294216" role=""/>
+  <member type="way" ref="61294898" role=""/>
+  <member type="way" ref="61294899" role=""/>
+  <member type="way" ref="78315091" role=""/>
+  <member type="way" ref="78315090" role=""/>
+  <member type="way" ref="78315083" role=""/>
+  <member type="way" ref="78315085" role=""/>
+  <member type="way" ref="78315086" role=""/>
+  <member type="way" ref="78315087" role=""/>
+  <member type="way" ref="78315088" role=""/>
+  <member type="node" ref="256361865" role=""/>
+  <tag k="loc_name" v="Большое Бетонное Кольцо"/>
+  <tag k="name" v="Большое Московское Кольцо"/>
+  <tag k="network" v="Russia"/>
+  <tag k="ref" v="А108"/>
+  <tag k="route" v="road"/>
+  <tag k="type" v="route"/>
+  <tag k="wikipedia:ru" v="Московское_Большое_Кольцо"/>
+ </relation>
+ <relation id="579158" user="physiocrat" uid="70202" visible="true" version="1" changeset="4518381" timestamp="2010-04-25T07:53:43Z">
+  <member type="way" ref="32940368" role="from"/>
+  <member type="way" ref="32940368" role="to"/>
+  <member type="node" ref="314817999" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="610851" user="physiocrat" uid="70202" visible="true" version="1" changeset="4528971" timestamp="2010-04-26T07:11:35Z">
+  <member type="way" ref="56299945" role="from"/>
+  <member type="way" ref="56299945" role="to"/>
+  <member type="node" ref="76381220" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="421052" user="Hind" uid="79836" visible="true" version="1" changeset="4008870" timestamp="2010-03-01T14:07:56Z">
+  <member type="relation" ref="421012" role="is_in"/>
+  <member type="relation" ref="184071" role="border"/>
+  <member type="node" ref="82452220" role="a3"/>
+  <member type="node" ref="82452220" role="label"/>
+  <tag k="address:a2" v="Клинский район"/>
+  <tag k="address:type" v="a2"/>
+  <tag k="name" v="Клинский район"/>
+  <tag k="type" v="address"/>
+ </relation>
+ <relation id="578148" user="physiocrat" uid="70202" visible="true" version="1" changeset="4518381" timestamp="2010-04-25T07:51:17Z">
+  <member type="way" ref="31054847" role="from"/>
+  <member type="way" ref="31054847" role="to"/>
+  <member type="node" ref="312375919" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="576448" user="Zverik" uid="290271" visible="true" version="2" changeset="5507786" timestamp="2010-08-16T09:49:52Z">
+  <member type="way" ref="32940371" role="from"/>
+  <member type="way" ref="32940371" role="to"/>
+  <member type="node" ref="370935646" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>
